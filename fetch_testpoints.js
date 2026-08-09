@@ -147,6 +147,51 @@ function saveManifest(manifestPath, map) {
   fs.writeFileSync(manifestPath, JSON.stringify(obj, null, 2));
 }
 
+function escapeXml(str) {
+  if (!str) return "";
+  return String(str)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&apos;");
+}
+
+/** Builds an RSS 2.0 feed from the collected testpoint/pinout items. */
+function generateRss(items) {
+  const now = new Date().toUTCString();
+  let xmlItems = "";
+
+  for (const it of items) {
+    const link = it.image_url || "";
+    xmlItems += `    <item>
+      <title>${escapeXml(it.title || `${it.brand} ${it.platform || ""}`.trim())}</title>
+      <link>${escapeXml(link)}</link>
+      <guid isPermaLink="false">${escapeXml(link)}</guid>
+      <pubDate>${now}</pubDate>
+      <description><![CDATA[
+        Brand: ${escapeXml(it.brand)}
+        ${it.platform ? "<br/>Platform: " + escapeXml(it.platform) : ""}
+        <br/><img src="${escapeXml(link)}" alt="${escapeXml(it.title || "")}" />
+      ]]></description>
+      <enclosure url="${escapeXml(link)}" type="image/jpeg" />
+    </item>\n`;
+  }
+
+  return `<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>fetch_testpoints.js</generator>
+    <title>Testpoints / Pinouts Archive</title>
+    <link>https://sigmakey.com/en/sigma-help/testpoints-pinouts/</link>
+    <description>Sigma / SigmaKey Testpoints &amp; Pinouts archive feed.</description>
+    <language>en</language>
+    <lastBuildDate>${now}</lastBuildDate>
+${xmlItems}  </channel>
+</rss>
+`;
+}
+
 function downloadFile(url, destPath) {
   return new Promise((resolve, reject) => {
     const file = fs.createWriteStream(destPath);
@@ -477,10 +522,15 @@ async function main() {
     JSON.stringify(coverage, null, 2)
   );
 
+  const rssXml = generateRss(allItems);
+  const rssPath = path.join(outDir, "rss.xml");
+  fs.writeFileSync(rssPath, rssXml);
+
   const incomplete = coverage.filter((c) => c.complete === false);
   console.log(`\nDone. ${allItems.length} total item(s) across ${brands.length} brand(s).`);
   console.log(`Written to ${path.join(outDir, "testpoints_all.json")}`);
   console.log(`Coverage report: ${path.join(outDir, "testpoints_coverage.json")}`);
+  console.log(`RSS feed: ${rssPath}`);
   if (incomplete.length) {
     console.warn(
       `\n${incomplete.length} brand(s) look INCOMPLETE (collected < badge count):`
