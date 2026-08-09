@@ -1,10 +1,11 @@
-name: Scrape Firmware & Update RSS
+name: Scrape Testpoints/Pinouts & Update Feed
 
 on:
   schedule:
-    # Runs every 2 hours (12x/day). Single source now: ximitime.com/hyperos/.
-    - cron: "0 */2 * * *"
-  workflow_dispatch: # Allow manual trigger
+    # Runs every 6 hours. Adjust as needed — this scraper is heavier
+    # (real headless browser) than the old RSS scraper was.
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # Allow manual trigger from the Actions tab
 
 permissions:
   contents: write
@@ -18,40 +19,36 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 35
+    timeout-minutes: 60
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Rebase/Pull işlemlerinin sorunsuz çalışması için tüm commit geçmişini çeker
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - name: Migrate old feeds/ folder to feed/ (one-time, if present)
-        run: |
-          if [ -d "feeds" ] && [ ! -d "feed" ]; then
-            git mv feeds feed
-          fi
+      - name: Install dependencies (Puppeteer + Chromium)
+        run: npm install
 
-      - name: Run scraper
+      - name: Run testpoints/pinouts scraper
         run: |
-          echo "Scraping: hyperos (ximitime.com)"
-          node fetch_roms.js hyperos --depth 50 --out-dir ./feed
+          echo "Scraping: sigmakey.com Testpoints/Pinouts (topic name + image URL)"
+          node fetch_testpoints.js --out-dir ./feed
 
       - name: Commit & push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add feed/
-          git add -u feeds/ 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Auto-update firmware RSS feeds ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+            git commit -m "Auto-update testpoints/pinouts feed ($(date -u '+%Y-%m-%d %H:%M UTC'))"
             git pull --rebase origin main
             git push
           fi
