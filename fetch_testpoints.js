@@ -34,10 +34,30 @@
  *   node fetch_testpoints.js --out-dir ./feed
  *   node fetch_testpoints.js --download-images    # also download the jpgs
  *
+ * IMAGE DEDUPING
+ * ---------------------------------------------------------------------
+ * Downloads are deduped by the remote image URL, not by brand/title:
+ *   - Within a single run, if the same image_url is referenced by more
+ *     than one card (this happens on the site — the same photo is
+ *     sometimes reused across multiple model listings), it is only
+ *     downloaded once.
+ *   - Across runs, a manifest file (testpoints/images-manifest.json)
+ *     records every URL already downloaded and the local file it lives
+ *     in. On the next run (e.g. the next day's cron), any URL already
+ *     in the manifest with its file still present on disk is skipped —
+ *     it is never re-downloaded. Only genuinely new images cause a new
+ *     HTTP request.
+ *   - Local filenames are derived from the remote URL itself (not from
+ *     brand+title), so the same remote image always maps to the same
+ *     local file regardless of which title(s) reference it.
+ *
  * Output (in --out-dir, default "./feed"):
- *   testpoints_all.json          - every item, all brands, one array
- *   testpoints/<Brand>.json      - per-brand item list
- *   testpoints/images/*.jpg      - downloaded images (only with --download-images)
+ *   testpoints_all.json               - every item, all brands, one array
+ *   testpoints_coverage.json          - collected vs. badge count per brand
+ *   testpoints/<Brand>.json           - per-brand item list
+ *   testpoints/images/*.jpg           - downloaded images (only with --download-images)
+ *   testpoints/images-manifest.json   - url -> local file map, used to skip
+ *                                        re-downloading already-fetched images
  */
 
 const fs = require("fs");
@@ -82,6 +102,49 @@ function sleep(ms) {
 
 function sanitizeFilename(name) {
   return name.replace(/[\\/:*?"<>|]+/g, "_").slice(0, 180);
+}
+
+function shortHash(str) {
+  // Small, dependency-free non-crypto hash — only used to disambiguate
+  // filename collisions, not for security.
+  let h = 0;
+  for (let i = 0; i < str.length; i++) {
+    h = (Math.imul(31, h) + str.charCodeAt(i)) | 0;
+  }
+  return (h >>> 0).toString(36);
+}
+
+/** Derives a stable local filename from the remote image URL itself. */
+function filenameForUrl(url) {
+  let base;
+  try {
+    base = decodeURIComponent(path.basename(new URL(url).pathname));
+  } catch {
+    base = path.basename(url);
+  }
+  base = sanitizeFilename(base);
+  if (!base) base = `image_${shortHash(url)}.jpg`;
+  return base;
+}
+
+function loadManifest(manifestPath) {
+  if (!fs.existsSync(manifestPath)) return new Map();
+  try {
+    const raw = JSON.parse(fs.readFileSync(manifestPath, "utf8"));
+    const map = new Map();
+    for (const [url, relPath] of Object.entries(raw)) {
+      map.set(url, relPath);
+    }
+    return map;
+  } catch (err) {
+    console.warn(`  ! could not read existing manifest (${err.message}), starting fresh`);
+    return new Map();
+  }
+}
+
+function saveManifest(manifestPath, map) {
+  const obj = Object.fromEntries(map.entries());
+  fs.writeFileSync(manifestPath, JSON.stringify(obj, null, 2));
 }
 
 function downloadFile(url, destPath) {
@@ -312,21 +375,6 @@ async function main() {
       JSON.stringify(brandItems, null, 2)
     );
 
-    if (downloadImages) {
-      for (const it of brandItems) {
-        const ext = path.extname(new URL(it.image_url).pathname) || ".jpg";
-        const fname = sanitizeFilename(`${brand.name}_${it.title}${ext}`);
-        const dest = path.join(outDir, "testpoints", "images", fname);
-        if (fs.existsSync(dest)) continue;
-        try {
-          await downloadFile(it.image_url, dest);
-        } catch (err) {
-          console.warn(`    ! failed to download ${it.image_url}: ${err.message}`);
-        }
-        await sleep(150);
-      }
-    }
-
     allItems.push(...brandItems);
     coverage.push({
       brand: brand.name,
@@ -334,6 +382,90 @@ async function main() {
       collected_count: brandItems.length,
       complete: brand.count ? brandItems.length >= brand.count : null,
     });
+  }
+
+  // -------------------------------------------------------------------
+  // Download images once per unique remote URL — never twice, ever.
+  // -------------------------------------------------------------------
+  if (downloadImages) {
+    const imagesDir = path.join(outDir, "testpoints", "images");
+    const manifestPath = path.join(imagesDir, "images-manifest.json");
+    const manifest = loadManifest(manifestPath);
+
+    // De-dupe by URL across the WHOLE run (all brands combined) first —
+    // the same photo is sometimes reused across multiple model listings.
+    const uniqueUrls = [...new Set(allItems.map((it) => it.image_url))];
+    console.log(
+      `\nDownloading images: ${uniqueUrls.length} unique URL(s) out of ${allItems.length} item(s).`
+    );
+
+    const usedFilenames = new Set(manifest.values());
+    let downloaded = 0;
+    let skippedExisting = 0;
+    let failed = 0;
+
+    for (const url of uniqueUrls) {
+      const existingRel = manifest.get(url);
+      const existingAbs = existingRel ? path.join(outDir, "testpoints", existingRel) : null;
+
+      if (existingRel && fs.existsSync(existingAbs)) {
+        skippedExisting++;
+        continue; // already downloaded in a previous run — do not re-fetch
+      }
+
+      let fname = filenameForUrl(url);
+      let relPath = path.join("images", fname);
+      // Guard against two different URLs sanitizing to the same filename.
+      if (usedFilenames.has(relPath) && !existingRel) {
+        fname = `${shortHash(url)}_${fname}`;
+        relPath = path.join("images", fname);
+      }
+      const dest = path.join(outDir, "testpoints", relPath);
+
+      if (fs.existsSync(dest)) {
+        // File is already there (e.g. manifest was stale/missing) — trust
+        // it and just record it, no re-download.
+        manifest.set(url, relPath);
+        usedFilenames.add(relPath);
+        skippedExisting++;
+        continue;
+      }
+
+      try {
+        await downloadFile(url, dest);
+        manifest.set(url, relPath);
+        usedFilenames.add(relPath);
+        downloaded++;
+      } catch (err) {
+        failed++;
+        console.warn(`  ! failed to download ${url}: ${err.message}`);
+      }
+      await sleep(150);
+    }
+
+    saveManifest(manifestPath, manifest);
+
+    console.log(
+      `Images: ${downloaded} newly downloaded, ${skippedExisting} already present (skipped), ${failed} failed.`
+    );
+
+    // Attach the local path to every item that references a downloaded image.
+    for (const it of allItems) {
+      const rel = manifest.get(it.image_url);
+      if (rel) it.local_image_path = `testpoints/${rel}`;
+    }
+    // Re-write per-brand JSON files now that local_image_path is known.
+    const byBrand = new Map();
+    for (const it of allItems) {
+      if (!byBrand.has(it.brand)) byBrand.set(it.brand, []);
+      byBrand.get(it.brand).push(it);
+    }
+    for (const [brandName, items] of byBrand) {
+      fs.writeFileSync(
+        path.join(outDir, "testpoints", `${sanitizeFilename(brandName)}.json`),
+        JSON.stringify(items, null, 2)
+      );
+    }
   }
 
   fs.writeFileSync(
