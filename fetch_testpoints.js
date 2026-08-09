@@ -258,6 +258,7 @@ async function main() {
   console.log(`Found ${brands.length} brand(s) to scrape.`);
 
   const allItems = [];
+  const coverage = [];
 
   for (const brand of brands) {
     const brandUrl = `${LIST_URL}?brand=${brand.id}`;
@@ -294,6 +295,17 @@ async function main() {
     }));
 
     console.log(`  -> collected ${brandItems.length} item(s) for ${brand.name}`);
+    if (brand.count && brandItems.length < brand.count) {
+      console.warn(
+        `  !! WARNING: nav badge says ${brand.count} but only ${brandItems.length} were collected for ${brand.name}. ` +
+          `Possible missed items (slow load, or a "Load more" button the script didn't detect). ` +
+          `Re-run with --no-headless --brands "${brand.name}" to watch it happen and adjust selectors/timing if needed.`
+      );
+    } else if (brand.count && brandItems.length > brand.count) {
+      console.log(
+        `  (note: collected more than the badge count — badge may be stale, or duplicates weren't fully de-duped across platforms)`
+      );
+    }
 
     fs.writeFileSync(
       path.join(outDir, "testpoints", `${sanitizeFilename(brand.name)}.json`),
@@ -316,15 +328,37 @@ async function main() {
     }
 
     allItems.push(...brandItems);
+    coverage.push({
+      brand: brand.name,
+      badge_count: brand.count,
+      collected_count: brandItems.length,
+      complete: brand.count ? brandItems.length >= brand.count : null,
+    });
   }
 
   fs.writeFileSync(
     path.join(outDir, "testpoints_all.json"),
     JSON.stringify(allItems, null, 2)
   );
+  fs.writeFileSync(
+    path.join(outDir, "testpoints_coverage.json"),
+    JSON.stringify(coverage, null, 2)
+  );
 
+  const incomplete = coverage.filter((c) => c.complete === false);
   console.log(`\nDone. ${allItems.length} total item(s) across ${brands.length} brand(s).`);
   console.log(`Written to ${path.join(outDir, "testpoints_all.json")}`);
+  console.log(`Coverage report: ${path.join(outDir, "testpoints_coverage.json")}`);
+  if (incomplete.length) {
+    console.warn(
+      `\n${incomplete.length} brand(s) look INCOMPLETE (collected < badge count):`
+    );
+    incomplete.forEach((c) =>
+      console.warn(`  - ${c.brand}: ${c.collected_count}/${c.badge_count}`)
+    );
+  } else {
+    console.log(`\nAll brands matched or exceeded their badge count. ✔`);
+  }
 
   await browser.close();
 }
