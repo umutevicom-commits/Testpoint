@@ -1,0 +1,13 @@
+{
+  "name": "firmware-scraper",
+  "version": "4.0.0",
+  "private": true,
+  "description": "Single-site firmware scraper for https://ximitime.com/hyperos/ (Xiaomi HyperOS device database). Crawls the whole site every run, fetches up to 50 new versions per run, never re-fetches known items, and accumulates results into a growing RSS feed with direct download links to the OTA zip files.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "scrape": "node fetch_roms.js",
+    "scrape:hyperos": "node fetch_roms.js hyperos --out-dir ./feed --batch 50",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
