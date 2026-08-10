@@ -8,9 +8,12 @@
     "start": "node fetch_testpoints.js",
     "scrape": "node fetch_testpoints.js --out-dir ./feed",
     "scrape:images": "node fetch_testpoints.js --out-dir ./feed --download-images",
+    "scrape:edlpoint": "node fetch_edlpoint.js --out-dir ./feed",
+    "scrape:edlpoint:images": "node fetch_edlpoint.js --out-dir ./feed --download-images",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "puppeteer": "^23.0.0"
+    "puppeteer": "^23.0.0",
+    "cheerio": "^1.0.0"
   }
 }

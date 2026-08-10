@@ -63,10 +63,16 @@ Her kayıt:
 
 ## GitHub Actions
 
-`.github/workflows/scrape.yml` her 6 saatte bir (veya manuel tetiklemeyle)
-scraper'ı çalıştırıp `feed/` klasörünü commit'ler ve GitHub Pages'e
-yayınlar. Marka sayısı fazla olduğundan (Huawei tek başına ~968 kayıt),
-ilk birkaç çalıştırmayı Actions loglarından izleyip `testpoints_coverage.json`
-çıktısında eksik marka var mı kontrol etmeniz önerilir.
+`.github/workflows/scrape.yml` günde bir kez (veya manuel tetiklemeyle) hem
+`fetch_testpoints.js`'i hem de `fetch_edlpoint.js`'i çalıştırıp `feed/`
+klasörünü commit'ler ve GitHub Pages'e yayınlar. Marka sayısı fazla
+olduğundan (Huawei tek başına ~968 kayıt), ilk birkaç çalıştırmayı Actions
+loglarından izleyip `testpoints_coverage.json` çıktısında eksik marka var mı
+kontrol etmeniz önerilir.
 
-Detaylı notlar için `README_testpoints.md` dosyasına bakın.
+**Görseller nereden yayınlanır?** Workflow, deponun adına bakarak Pages
+adresini (`https://<owner>.github.io/<repo>`) otomatik hesaplıyor ve her iki
+scraper'a da `--download-images --base-url ...` ile veriyor — yani üretilen
+RSS feed'lerindeki görseller hedef sitenin (sigmakey.com / miuirom.org)
+linkleri değil, **bu reponun GitHub Pages'inde barınan kopyalar**dır. Detaylar
+için `README_testpoints.md` ve `README_edlpoint.md` dosyalarına bakın.

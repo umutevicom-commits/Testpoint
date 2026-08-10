@@ -34,6 +34,13 @@
  *   node fetch_testpoints.js --out-dir ./feed
  *   node fetch_testpoints.js --download-images    # also download the jpgs
  *
+ *   # Publish via GitHub Pages instead of hotlinking sigmakey.com — pass
+ *   # BOTH --download-images and --base-url (your Pages root, no trailing
+ *   # slash); RSS items then link to the locally-downloaded copy instead of
+ *   # the original sigmakey.com URL. See fetch_edlpoint.js's header comment
+ *   # for the full explanation — same mechanism, same --base-url flag.
+ *   node fetch_testpoints.js --download-images --base-url https://<user>.github.io/<repo>
+ *
  * IMAGE DEDUPING
  * ---------------------------------------------------------------------
  * Downloads are deduped by the remote image URL, not by brand/title:
@@ -78,6 +85,7 @@ function parseArgs() {
   let brandFilter = null; // null = all brands
   let downloadImages = false;
   let headless = true;
+  let baseUrl = null; // GitHub Pages root, e.g. https://user.github.io/repo (no trailing slash)
 
   for (let i = 0; i < args.length; i++) {
     if (args[i] === "--out-dir") {
@@ -88,9 +96,11 @@ function parseArgs() {
       downloadImages = true;
     } else if (args[i] === "--no-headless") {
       headless = false;
+    } else if (args[i] === "--base-url") {
+      baseUrl = args[++i].replace(/\/+$/, "");
     }
   }
-  return { outDir, brandFilter, downloadImages, headless };
+  return { outDir, brandFilter, downloadImages, headless, baseUrl };
 }
 
 // ---------------------------------------------------------------------------
@@ -157,13 +167,19 @@ function escapeXml(str) {
     .replace(/'/g, "&apos;");
 }
 
-/** Builds an RSS 2.0 feed from the collected testpoint/pinout items. */
+/**
+ * Builds an RSS 2.0 feed from the collected testpoint/pinout items.
+ * Uses each item's `published_image_url` (the GitHub-Pages-hosted local
+ * copy, set in main() when both --download-images and --base-url are
+ * given) when available; otherwise falls back to the original sigmakey.com
+ * `image_url`.
+ */
 function generateRss(items) {
   const now = new Date().toUTCString();
   let xmlItems = "";
 
   for (const it of items) {
-    const link = it.image_url || "";
+    const link = it.published_image_url || it.image_url || "";
     xmlItems += `    <item>
       <title>${escapeXml(it.title || `${it.brand} ${it.platform || ""}`.trim())}</title>
       <link>${escapeXml(link)}</link>
@@ -341,7 +357,15 @@ async function scrapeWithScroll(page, targetCount, maxIdleRounds = 4) {
 }
 
 async function main() {
-  const { outDir, brandFilter, downloadImages, headless } = parseArgs();
+  const { outDir, brandFilter, downloadImages, headless, baseUrl } = parseArgs();
+
+  if (baseUrl && !downloadImages) {
+    console.warn(
+      "  !! --base-url was given without --download-images — there will be no local files to " +
+        "publish, so RSS items will fall back to the original sigmakey.com image URLs. Add " +
+        "--download-images to actually host images from GitHub Pages."
+    );
+  }
   const puppeteer = require("puppeteer");
 
   fs.mkdirSync(outDir, { recursive: true });
@@ -494,10 +518,21 @@ async function main() {
       `Images: ${downloaded} newly downloaded, ${skippedExisting} already present (skipped), ${failed} failed.`
     );
 
-    // Attach the local path to every item that references a downloaded image.
+    // Attach the local path (and, if --base-url was given, the GitHub Pages
+    // published URL) to every item that references a downloaded image.
+    // pagesPrefix = --out-dir relative to the repo root, posix-style, e.g.
+    // "./feed" -> "feed" — GitHub Pages serves the whole repo from "/".
+    const pagesPrefix = outDir.replace(/^\.\/?/, "").split(path.sep).filter(Boolean).join("/");
     for (const it of allItems) {
       const rel = manifest.get(it.image_url);
-      if (rel) it.local_image_path = `testpoints/${rel}`;
+      if (!rel) continue;
+      const relPosix = rel.split(path.sep).join("/");
+      it.local_image_path = `testpoints/${relPosix}`;
+      if (baseUrl) {
+        it.published_image_url = [baseUrl, pagesPrefix, "testpoints", relPosix]
+          .filter(Boolean)
+          .join("/");
+      }
     }
     // Re-write per-brand JSON files now that local_image_path is known.
     const byBrand = new Map();
@@ -527,10 +562,19 @@ async function main() {
   fs.writeFileSync(rssPath, rssXml);
 
   const incomplete = coverage.filter((c) => c.complete === false);
+  const publishedCount = allItems.filter((it) => it.published_image_url).length;
   console.log(`\nDone. ${allItems.length} total item(s) across ${brands.length} brand(s).`);
   console.log(`Written to ${path.join(outDir, "testpoints_all.json")}`);
   console.log(`Coverage report: ${path.join(outDir, "testpoints_coverage.json")}`);
   console.log(`RSS feed: ${rssPath}`);
+  if (baseUrl) {
+    console.log(
+      `RSS images point at GitHub Pages (${baseUrl}) for ${publishedCount}/${allItems.length} item(s)` +
+        (publishedCount < allItems.length ? " — the rest fall back to sigmakey.com." : ".")
+    );
+  } else {
+    console.log(`RSS images point at the original sigmakey.com URLs (no --base-url given).`);
+  }
   if (incomplete.length) {
     console.warn(
       `\n${incomplete.length} brand(s) look INCOMPLETE (collected < badge count):`
