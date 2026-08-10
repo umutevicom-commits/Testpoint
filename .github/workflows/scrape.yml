@@ -41,13 +41,40 @@ jobs:
         with:
           node-version: 20
 
-      - name: Install dependencies (Puppeteer + Chromium)
+      - name: Install dependencies (Puppeteer + Chromium, cheerio)
         run: npm install
+
+      # Both scrapers are told to download images locally AND to publish
+      # RSS links pointing at THIS repo's GitHub Pages site (not the
+      # original sigmakey.com / miuirom.org URLs) — see the "PUBLISHING
+      # IMAGES FROM GITHUB PAGES" note in fetch_edlpoint.js / the matching
+      # comment in fetch_testpoints.js for how --base-url is used.
+      - name: Compute GitHub Pages base URL
+        id: pages_url
+        run: |
+          OWNER="${GITHUB_REPOSITORY%%/*}"
+          REPO="${GITHUB_REPOSITORY##*/}"
+          # A repo named exactly "<owner>.github.io" is served at the domain
+          # root (no /<repo> suffix); every other repo is a project page.
+          if [ "$(echo "$REPO" | tr '[:upper:]' '[:lower:]')" = "$(echo "$OWNER" | tr '[:upper:]' '[:lower:]').github.io" ]; then
+            BASE_URL="https://${OWNER}.github.io"
+          else
+            BASE_URL="https://${OWNER}.github.io/${REPO}"
+          fi
+          echo "base_url=$BASE_URL" >> "$GITHUB_OUTPUT"
+          echo "Computed Pages base URL: $BASE_URL"
 
       - name: Run testpoints/pinouts scraper (full archive, with images)
         run: |
           echo "Scraping FULL archive: sigmakey.com Testpoints/Pinouts (every brand, every image)"
-          node fetch_testpoints.js --out-dir ./feed --download-images
+          node fetch_testpoints.js --out-dir ./feed --download-images \
+            --base-url "${{ steps.pages_url.outputs.base_url }}"
+
+      - name: Run EDL point scraper (miuirom.org, with images)
+        run: |
+          echo "Scraping miuirom.org EDL Point archive (Xiaomi/REDMI/POCO, every image)"
+          node fetch_edlpoint.js --out-dir ./feed --download-images \
+            --base-url "${{ steps.pages_url.outputs.base_url }}"
 
       - name: Commit & push changes
         run: |
@@ -57,7 +84,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Auto-update testpoints/pinouts feed ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+            git commit -m "Auto-update testpoints/edl-point feeds ($(date -u '+%Y-%m-%d %H:%M UTC'))"
             # --autostash: if the working tree has any other uncommitted/
             # unstaged changes at this point (e.g. left over from npm
             # install, line-ending normalization on checkout, etc.), stash
