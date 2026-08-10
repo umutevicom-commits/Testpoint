@@ -1,0 +1,2922 @@
+[
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, ABR-AL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI P50_ABR-LX9-1753699792.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI P50_ABR-LX9-1753699792.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI P50_ABR-LX9-1753699792.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, ANY-L21CQ, ANY-N21, ANY-AN00, ANY-LX1, ANY-LX2, ANY-LX3",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI ANY-NX1-1753698044.png",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI ANY-NX1-1753698044.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI ANY-NX1-1753698044.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, Ascend Y530-U00, Ascend Y530-U051",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Y530-1753700150.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Y530-1753700150.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Y530-1753700150.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, ATU-LX1, ATU-L21, ATU-AL10, ATU-L31, ATU-AL00, ATU-L42, ATU-LX3, ATU-L22, ATU-TL00, ATU-L11, ATU-TL10",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI ATU-1753698129.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI ATU-1753698129.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI ATU-1753698129.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, AUM-AL20, AUM-TL20, AUM-AL00, AUM-L29, AUM-L41, AUM-L33",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI AUM-XX-1753698171.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI AUM-XX-1753698171.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI AUM-XX-1753698171.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, BAL-AL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI BAL-XXX-1753698227.png",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI BAL-XXX-1753698227.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI BAL-XXX-1753698227.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, BZK-L00, BZK-W00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT BZK-W00-1753697361.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT BZK-W00-1753697361.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT BZK-W00-1753697361.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, CAN-AL00, CAN-AL10, CAN-L01, CAN-L02, CAN-L03, CAN-L11, CAN-L12, CAN-L13, CAN-TL10, CAN-TL20",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI CAN-XX-1753698319.png",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI CAN-XX-1753698319.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI CAN-XX-1753698319.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, CMA-LX2, CMA-LX3",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HONOR X7_CMA-LX2-1753697863.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HONOR X7_CMA-LX2-1753697863.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HONOR X7_CMA-LX2-1753697863.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, DUB-AL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI DUB-AL00-1753698419.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI DUB-AL00-1753698419.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI DUB-AL00-1753698419.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, DUB-AL20, DUB-TL00, DUB-LX1, DUB-L21, DUB-LX2, DUB-L22",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI DUB-XXX-1753698459.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI DUB-XXX-1753698459.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI DUB-XXX-1753698459.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, Enjoy 6S, DIG-L01, DIG-AL00, DIG-L03, DIG-L21, DIG-L22, DIG-L23, DIG-TL10",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Enjoy 6S DIG-L01-1753698523.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Enjoy 6S DIG-L01-1753698523.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Enjoy 6S DIG-L01-1753698523.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, Enjoy 7, SLA-AL00, SLA-L02, SLA-L22, SLA-L23, SLA-TL10, SLA-L03, SLA-TL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Enjoy 7 SLA- TL10-1753698631.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Enjoy 7 SLA- TL10-1753698631.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Enjoy 7 SLA- TL10-1753698631.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, Enjoy P60 Pro, MNA-AL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI P60 Pro_MNA-LX9-1753699843.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI P60 Pro_MNA-LX9-1753699843.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI P60 Pro_MNA-LX9-1753699843.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, G620S-L01, G620S-L03, G620S-L02, G620S, G620S-UL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI G620S-1753698716.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI G620S-1753698716.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI G620S-1753698716.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, G630-U251, G630-U10, G630-U20, G630, G630-T00, G630-U00, G630-U30",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI G630-1753698792.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI G630-1753698792.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI G630-1753698792.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, GR5, KII-L21, KII-L22, KII-L23, KII-L05, KII-L33",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI GR5 KII L21-1753698887.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI GR5 KII L21-1753698887.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI GR5 KII L21-1753698887.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, Honor 5X, KIW-AL10, KIW-AL10G, KIW-AL20, KIW-L21, KIW-L22, KIW-L23, KIW-L24, KIW-TL00, KIW-TL00H, KIW-UL00, KIW-CL00, KIW-L33",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI 5X KIW-L21-1753697947.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI 5X KIW-L21-1753697947.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI 5X KIW-L21-1753697947.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, Honor 6A, DLI-L22, DLI-L42, DLI-AL10, DLI-TL20, DLI-TL10",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Honor 6A(DLI-AL20)-1753698977.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Honor 6A(DLI-AL20)-1753698977.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Honor 6A(DLI-AL20)-1753698977.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, Honor 70 lite, RBN-NX1",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HONOR 70 Lite RBN-NX1-1753697489.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HONOR 70 Lite RBN-NX1-1753697489.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HONOR 70 Lite RBN-NX1-1753697489.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, Honor 70, FNE-AN00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT FNE-NX9-1753697435.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT FNE-NX9-1753697435.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT FNE-NX9-1753697435.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, Honor 8C, BKK-LX1, BKK-L21, BKK-AL10, BKK-TL00, BKK-AL00, BKK-LX2, BKK-L22",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HONOR 8C BKK-LX2-1753697704.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HONOR 8C BKK-LX2-1753697704.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HONOR 8C BKK-LX2-1753697704.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, JAD-AL00, JAD-LX9",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI JAD-LX9-1753699028.png",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI JAD-LX9-1753699028.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI JAD-LX9-1753699028.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, JLN-LX1, JLN-LX3",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI JLN-LX1-1753699069.png",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI JLN-LX1-1753699069.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI JLN-LX1-1753699069.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, KOB-L09",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Tab 3 KOB-L09-1753700108.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Tab 3 KOB-L09-1753700108.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Tab 3 KOB-L09-1753700108.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, LDN-L01, LDN-L21, LDN-LX3, LDN-TL10, LDN-TL20, LDN-LX2",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI LDN-L21-1753699133.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI LDN-L21-1753699133.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI LDN-L21-1753699133.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, MAO-AL00, MAO-L29, Nova 11",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT NOVA 11i MAO-LX9-1753700472.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT NOVA 11i MAO-LX9-1753700472.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT NOVA 11i MAO-LX9-1753700472.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, MLA-L01, MLA-L02, MLA-L03, MLA-L11, MLA-L12, MLA-L13, MLA-TL00, MLA-TL10, MLA-UL00, MLA-AL00, MLA-AL10, MLA-CL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI MLA-AL10-1753699232.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI MLA-AL10-1753699232.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI MLA-AL10-1753699232.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, MRR-W29",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI MRR-W29-1753699346.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI MRR-W29-1753699346.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI MRR-W29-1753699346.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, NAM-AL00, NAM-LX9",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI NAM-LX9-1753699388.png",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI NAM-LX9-1753699388.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI NAM-LX9-1753699388.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, NCO-LX3, Nova 10, NCO-AL00, NCO-L21",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT NOVA 10 NCO-LX3-1753700394.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT NOVA 10 NCO-LX3-1753700394.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT NOVA 10 NCO-LX3-1753700394.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, Nova 10 Pro, GLA-AL00, GLA-AL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT NOVA 10 Pro MGZ-BD00 GLA-LX1-1753700444.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT NOVA 10 Pro MGZ-BD00 GLA-LX1-1753700444.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT NOVA 10 Pro MGZ-BD00 GLA-LX1-1753700444.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, Nova 10 SE, BNE-AL00, BNE-LX1, BNE-LX3",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Nova 10 SE BNE-LX1-1753699591.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Nova 10 SE BNE-LX1-1753699591.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Nova 10 SE BNE-LX1-1753699591.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, Nova 8i, NEN-LX1",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI NEN-LX1-1753699434.png",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI NEN-LX1-1753699434.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI NEN-LX1-1753699434.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, NTH-AN00, NTH-NX9, NTH-TN00, NTH-LX1",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI NTH-NX9-1753699483.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI NTH-NX9-1753699483.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI NTH-NX9-1753699483.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, NTN-L22, NTN-LX1",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI NTN-LX1-1753699542.png",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI NTN-LX1-1753699542.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI NTN-LX1-1753699542.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, P50",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI P50-1753699755.png",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI P50-1753699755.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI P50-1753699755.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, P50 Pocket",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI P50 Pocket-1753699636.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI P50 Pocket-1753699636.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI P50 Pocket-1753699636.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, P50 Pro",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI P50 Pro-1753699714.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI P50 Pro-1753699714.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI P50 Pro-1753699714.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, RMO-AN00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI RMO-LX9-1753699891.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI RMO-LX9-1753699891.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI RMO-LX9-1753699891.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, RNA-AN00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI RNA-1753699940.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI RNA-1753699940.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI RNA-1753699940.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, SCC-U21",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Y6 SCC-U21-1753700266.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Y6 SCC-U21-1753700266.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Y6 SCC-U21-1753700266.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, SCL-AL00, SCL-u31, SCL-L01, SCL-L02, SCL-L04, SCL-L03, SCL-L21, SCL-CL00, SCL-U21, SCL-TL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Y6 SCL-AL00-1753700338.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Y6 SCL-AL00-1753700338.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Y6 SCL-AL00-1753700338.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, TFY-LX1, TFY-LX2, TFY-LX3",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT TFY-LX1-1753700591.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT TFY-LX1-1753700591.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT TFY-LX1-1753700591.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, TNA-AN00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI TNA-AN00-1753699977.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI TNA-AN00-1753699977.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI TNA-AN00-1753699977.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, TRT-AL00, TRT-L01, TRT-L03, TRT-L21, TRT-L22, TRT-L23, TRT-L53, TRT-TL10, TRT-TL00, TRT-LX1, TRT-LX2, TRT-LX3, TRT-A1",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI TRT-L21-1753700042.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI TRT-L21-1753700042.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI TRT-L21-1753700042.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, VNE-AN00, VNE-LX3",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT NOVA X8 VNE-N41-1753700552.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT NOVA X8 VNE-N41-1753700552.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT NOVA X8 VNE-N41-1753700552.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "ADB Mode",
+    "title": "Huawei, ADB Mode, Y550-L01, Y550-L03, Y550-L02, Y550-L13",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Y550-1753700185.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Y550-1753700185.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Y550-1753700185.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, AGR-W09, AGR-L09, AGR-AL09HN, AGRK-L09, AGRK-W09",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI AGR-W09-1753701972.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI AGR-W09-1753701972.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI AGR-W09-1753701972.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, AKA-L29, AKA-AL10",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI AKA-L29-1753702005.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI AKA-L29-1753702005.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI AKA-L29-1753702005.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, ALE-L01, ALE-L02, ALE-L03, ALE-L21, ALE-L22, ALE-L23, ALE-L32, ALE-L52, ALE-L53, ALE-L62, ALE-L34",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI P8 lite ALE-L21-1753709333.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI P8 lite ALE-L21-1753709333.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI P8 lite ALE-L21-1753709333.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, ALP-L09, ALP-L29, ALP-TL00, ALP-AL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI ALP-L29-1753702040.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI ALP-L29-1753702040.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI ALP-L29-1753702040.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, ANE-L01, ANE-LX3, ANE-L23, ANE-L22, ANE-LX2, ANE-AL00, ANE-LX1, ANE-TL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI ANE-LX1-1753702080.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI ANE-LX1-1753702080.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI ANE-LX1-1753702080.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, ANG-L02B, ANG-L22B, ANG-L21B, ANG-AN00, ANG-LX2, ANG-LX1",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI ANG-AN00-1753702119.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI ANG-AN00-1753702119.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI ANG-AN00-1753702119.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, AQM-LX1, AQM-AL00, AQM-AL10, AQM-TL00, Enjoy 10, AQM-AL10, AQM-TL10, AQM-L21A",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI ENJOY 10S AQM-AL00-1753703694.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI ENJOY 10S AQM-AL00-1753703694.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI ENJOY 10S AQM-AL00-1753703694.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, ART-L29, ART-AL00, ART-TL00, ART-L28",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI ART-L29-1753702165.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI ART-L29-1753702165.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI ART-L29-1753702165.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, BAC-AL00, BAC-TL00, BAC-L01, BAC-L02, BAC-L03, BAC-L09, BAC-L21, BAC-L22, BAC-L23",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI BAC-1753702286.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI BAC-1753702286.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI BAC-1753702286.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, BAH2-L09, BAH2-W09, BAH2-AL10, BAH2-W19",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI BAH2-W09_2-1753702332.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI BAH2-W09_2-1753702332.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI BAH2-W09_2-1753702332.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, BAH3-AL00, BAH3-L09, BAH3-AN10, BAH3-W09, BAH3-W59, BAH3-W19",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI BAH3-L09-1753702390.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI BAH3-L09-1753702390.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI BAH3-L09-1753702390.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, BKL-TL00, BKL-AL00, BKL-AL20, BKL-TL20, BKL-L09, BKL-TL10, BKL-L04",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI BKL-AL20-1753702493.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI BKL-AL20-1753702493.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI BKL-AL20-1753702493.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, BLA-L29, BLA-A09, BLA-AL00, BLA-TL00, Mate 10 Pro, BLA-L09",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Mate 10 Pro BLA-L09-1753706302.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Mate 10 Pro BLA-L09-1753706302.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Mate 10 Pro BLA-L09-1753706302.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, BLN-L21, Honor 6X, BLN-AL40, BLN-L24, BLN-L22, BLN-AL10, BLN-AL30, BLN-TL10, BLN-TL00, BLN-AL20",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Honor 6X BLN AL20 AL40 AL00-1753705205.png",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Honor 6X BLN AL20 AL40 AL00-1753705205.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Honor 6X BLN AL20 AL40 AL00-1753705205.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, BND-AL10, Honor 7X, BND-AL10, BND-L21, BND-TL10, BND-L24, BND-AL00, BND-L31, BND-L34",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Honor 7X BND-1753705360.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Honor 7X BND-1753705360.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Honor 7X BND-1753705360.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, BRQ-AN00, BRQ-AL00, BRQ-TN00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI BRQ-AN00-1753702554.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI BRQ-AN00-1753702554.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI BRQ-AN00-1753702554.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, CAM-L03, CAM-L21, CAM-L23, CAM-TL00H, CAM-UL00, CAM-UL10",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI CAM-L21-1753702608.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI CAM-L21-1753702608.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI CAM-L21-1753702608.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, CDY-NX9B, CDY-AN00, CDY-NX9A, CDY-AN90, CDY-NX9A, CDY-AN20, CDY-AN95, CDY-TN00, CDY-TN20, CDY-TN90",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Honor 30s CDY-xxx-1753704923.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Honor 30s CDY-xxx-1753704923.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Honor 30s CDY-xxx-1753704923.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, CMR-AL19, CMR-AL09, CMR-W19, CMR-09",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI CMR-W09-1753702654.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI CMR-W09-1753702654.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI CMR-W09-1753702654.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, COL-AL10, COL-L29, COL-TL00, COL-TL10, COL-AL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI COL-L29-1753703301.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI COL-L29-1753703301.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI COL-L29-1753703301.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, CRR-L09, Mate S, CRR-CL00, CRR-CL20, CRR-TL00, CRR-UL00, CRR-UL20",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Mate S CRR-L09-1753707419.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Mate S CRR-L09-1753707419.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Mate S CRR-L09-1753707419.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, DNN-lx9",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HONOR 10X Lite DNN-LX9-1753700897.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HONOR 10X Lite DNN-LX9-1753700897.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HONOR 10X Lite DNN-LX9-1753700897.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, ELS-AN00, ELS-TN00, ELS-NX9, ELS-N04, ELS-AN10, ELS-N39, ELS-N29, ELS-N09, ELS-NX4",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI ELS-NX9-1753703457.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI ELS-NX9-1753703457.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI ELS-NX9-1753703457.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, EML-L09, EML-L22, EML-L29, EML-AL00, EML-TL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI EML-L29-1753703625.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI EML-L29-1753703625.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI EML-L29-1753703625.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, EVA-xxx, EVA-AL00, EVA-AL10, EVA-L09, EVA-L19, EVA-L29, EVA-TL00, EVA-CL00, EVA-DL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI EVA-L09-1753703752.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI EVA-L09-1753703752.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI EVA-L09-1753703752.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, EVE-LX9, EVE-LX9N, EVE-LX3",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI EVE-LX9-1753703833.png",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI EVE-LX9-1753703833.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI EVE-LX9-1753703833.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, EVR-N29, EVR-AL00, EVR-TL00, EVR-L29, Mate 20 X, EVR-AN00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Mate 20X EVR-xxx-1753706427.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Mate 20X EVR-xxx-1753706427.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Mate 20X EVR-xxx-1753706427.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, FIG-TL10, FIG-LX2, FIG-L21, FIG-L22, FIG-LA1, FIG-TL10, FIG-AL10, FIG-AL00, FIG-LX1, FIG-lx3, FIG-L23, FIG-TL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI FIG-AL00-1753703912.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI FIG-AL00-1753703912.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI FIG-AL00-1753703912.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, FLA-AL00, FLA-AL10, FLA-AL20, FLA-L22, FLA-LX2, Y9 2018, FLA-LX3, FLA-LX1, FLA-TL10",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Y9 2018 FLA-XXX-1753710173.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Y9 2018 FLA-XXX-1753710173.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Y9 2018 FLA-XXX-1753710173.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, FRD-L09, Honor 8, FRD-AL10, FRD-AL00, FRD-L04, FRD-L02, FRD-DL00, FRD-L14, FRD-L19",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Honor 8 FRD-AL00-1753705421.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Honor 8 FRD-AL00-1753705421.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Honor 8 FRD-AL00-1753705421.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, GRA-CL00, GRA-CL10, GRA-L03, GRA-L09, GRA-L13, GRA-TL00, GRA-TL10, GRA-UL00, GRA-UL10",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI P8 GRA-L09-1753709181.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI P8 GRA-L09-1753709181.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI P8 GRA-L09-1753709181.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, HLK-AL10, HLK-TL10, HLK-L22, HLK-L29, HLK-AL00, HLK-TL00, HLK-L42, HLK-L41",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI HLK-AL10-1753704556.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI HLK-AL10-1753704556.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI HLK-AL10-1753704556.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, HN3-U00, HN3-U01, Honor 3",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Honor3 HN3-U00-1753705792.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Honor3 HN3-U00-1753705792.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Honor3 HN3-U00-1753705792.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Honor 20 Lite RU, LRA-AL00, LRA-TL00, Honor 20 Lite, LRA-LX1",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HONOR 20 Lite LRA-xxx-1753700991.png",
+    "local_image_path": "testpoints/images/TESTPOINT HONOR 20 Lite LRA-xxx-1753700991.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HONOR 20 Lite LRA-xxx-1753700991.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Honor 30 Pro, EBG-AN10, EBG-AN00, EBG-TN00, EBG-TN10",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HONOR 30 PRO EBG-AN10-1753701569.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HONOR 30 PRO EBG-AN10-1753701569.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HONOR 30 PRO EBG-AN10-1753701569.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Honor 30, BMH-AN10, BMH-TN20, BMH-AN00, BMH-AN20, BMH-TN10",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HONOR 30 BMH-AN10-1753701469.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HONOR 30 BMH-AN10-1753701469.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HONOR 30 BMH-AN10-1753701469.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Honor 4X, Che2-L03, Che2-L11, Che2-L12, Che2-L23, Che2-TL00, Che2-TL00H, Che2-TL00M, Che2-UL00, Che2-UL10, Che2-TL10, Che2-TL10M",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Honor 4X Che2-L11-1753705037.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Honor 4X Che2-L11-1753705037.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Honor 4X Che2-L11-1753705037.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Honor 6, H60-J1, H60-L01, H60-L02, H60-L03, H60-L04, H60-L11, H60-L12, H60-L21",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Honor 6 H60-L04 -1753705124.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Honor 6 H60-L04 -1753705124.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Honor 6 H60-L04 -1753705124.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Honor 7, PLK-AL10, PLK-CL00, PLK-TL00, PLK-TL01H, PLK-UL00, PLK-C00, PLK-L01, PLK-L11, PLK-L21, PLK-TL01H, PLK-TL11H, PLK-UL10",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Honor 7 PLK-1753705271.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Honor 7 PLK-1753705271.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Honor 7 PLK-1753705271.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Honor 8 pro, DUK-L09, DUK-AL10, DUK-AL20, DUK-AL30, DUK-L09, DUK-TL30, DUK-AL00, DUK-L29",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Honor 8 PRO DUKE-1753705516.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Honor 8 PRO DUKE-1753705516.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Honor 8 PRO DUKE-1753705516.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Honor Magic 2, TNY-TL00, TNY-AL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HONOR Magic 2 TNY-xxx-1753701618.png",
+    "local_image_path": "testpoints/images/TESTPOINT HONOR Magic 2 TNY-xxx-1753701618.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HONOR Magic 2 TNY-xxx-1753701618.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Honor Note 10, RVL-AL10, RVL-AL09",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HONOR NOTE 10 RVL-xxx-1753701672.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HONOR NOTE 10 RVL-xxx-1753701672.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HONOR NOTE 10 RVL-xxx-1753701672.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Honor Play 3, ASK-AL00, ASK-AL20, ASK-TL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HONOR PLAY 3 ASK-xxx-1753701795.png",
+    "local_image_path": "testpoints/images/TESTPOINT HONOR PLAY 3 ASK-xxx-1753701795.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HONOR PLAY 3 ASK-xxx-1753701795.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Honor Play 4 Pro, OXP-AN00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HONOR Play 4 Pro OXP-xxx-1753701866.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HONOR Play 4 Pro OXP-xxx-1753701866.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HONOR Play 4 Pro OXP-xxx-1753701866.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Honor Play, COR-AL00, COR-L29, COR-TL10, COR-AL10",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Honor Play COR-AL10-1753705668.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Honor Play COR-AL10-1753705668.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Honor Play COR-AL10-1753705668.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Honor V20, PCT-L29, PCT-AL10, PCT-TL10, PCT-LX9, PCT-AL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HONOR V20 PCT-xxx-1753704872.png",
+    "local_image_path": "testpoints/images/TESTPOINT HONOR V20 PCT-xxx-1753704872.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HONOR V20 PCT-xxx-1753704872.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Honor V30 Pro, OXF-AN10, OXF-AN00, OXF-AL10, OXF-AL10I",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI V30 PRO OXF-AN10-1753709875.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI V30 PRO OXF-AN10-1753709875.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI V30 PRO OXF-AN10-1753709875.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Honor V8, KNT-AL20, KNT-AL10, KNT-UL10, KNT-L29, KNT-TL10",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Honor V8 KNT-1753705731.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Honor V8 KNT-1753705731.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Honor V8 KNT-1753705731.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, HRY-AL00, HRY-AL00A, HRY-AL00T, HRY-AL00TA, HRY-LX1, HRY-LX1MEB, HRY-LX1T, HRY-LX2, Honor 10 Lite, HRY-L22, HRY-L21",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI HRY-LX1-1753704672.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI HRY-LX1-1753704672.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI HRY-LX1-1753704672.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, INE-LX1, INE-LX1R, INE-AL00, INE-TL00, INE-LX2, INE-LX2R",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI INE-LX1-1753705836.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI INE-LX1-1753705836.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI INE-LX1-1753705836.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, JDN2-AL00, JDN2-W09, JDN2-AL50, JDN2-L09, JDN2-W59",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI JDN2-l09-1753705889.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI JDN2-l09-1753705889.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI JDN2-l09-1753705889.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, JER-AN10, JER-AN20, JER-TN10, JER-TN20",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Nova 7 JER-xxx-1753708292.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Nova 7 JER-xxx-1753708292.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Nova 7 JER-xxx-1753708292.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, JNY-LX1, JNY-L22, JNY-LX2, JNY-AL10, JNY-TL10",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI JNY-L21-1753705950.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI JNY-L21-1753705950.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI JNY-L21-1753705950.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, JSN-L21, JSN-L22, JSN-L23, JSN-L42, JSN-LX1, JSN-LX2, JSN-LX3, JSN-AL00, JSN-TL00, JSN-AL10",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI JSN-AL00-1753706009.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI JSN-AL00-1753706009.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI JSN-AL00-1753706009.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, LLD-L31, LLD-L22, LLD-AL10, LLD-AL00, LLD-AL20, LLD-L21, LLD-TL10",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI LLD-AL10-1753706080.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI LLD-AL10-1753706080.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI LLD-AL10-1753706080.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, MAR-L01, MAR-L21, MAR-LX1, MAR-LX2, MAR-AL00, MAR-TL00, MAR-LX3A, MAR-L22",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI MAR-LX1-1753706142.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI MAR-LX1-1753706142.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI MAR-LX1-1753706142.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Mate 20 Lite, SNE-AL00, SNE-LX1, SNE-LX2, SNE-LX3, SNE-L01, SNE-L23, SNE-L03, SNE-TL00, SNE-L21",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI SNE-LX1-1753709708.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI SNE-LX1-1753709708.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI SNE-LX1-1753709708.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Mate 20 Pro, LYA-AL00, LYA-L09, LYA-L29, LYA-TL00, LYA-LX9, LYA-AL10",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Mate 20 PRO LYA-xxx-1753706363.png",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Mate 20 PRO LYA-xxx-1753706363.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Mate 20 PRO LYA-xxx-1753706363.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Mate 20, HMA-AL00, HMA-L09, HMA-L29, HMA-TL00, HMA-LX9",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI HMA-1753704603.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI HMA-1753704603.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI HMA-1753704603.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Mate 30 Pro 5G, Mate 30 Pro, LIO-AN00, LIO-TN00, LIO-N29, LIO-AL00, LIO-L09, LIO-L29, LIO-TL00, LIO-N09, LIO-LX9, LIO-AN00m 1",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Mate 30 PRO 5G LIO-AN00-1753706697.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Mate 30 PRO 5G LIO-AN00-1753706697.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Mate 30 PRO 5G LIO-AN00-1753706697.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Mate 30 Pro 5G, Mate 30 Pro, LIO-AN00, LIO-TN00, LIO-N29, LIO-AL00, LIO-L09, LIO-L29, LIO-TL00, LIO-N09, LIO-LX9, LIO-AN00m 2",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Mate 30 PRO LIO-L29-1753706699.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Mate 30 PRO LIO-L29-1753706699.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Mate 30 PRO LIO-L29-1753706699.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Mate 30, TAS-AL00, TAS-L09, TAS-L29, TAS-TL00, TAS-N09, TAS-LX9, TAS-NX9, TAS-AN00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Mate 30 5G TAS-AN00-1753706840.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Mate 30 5G TAS-AN00-1753706840.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Mate 30 5G TAS-AN00-1753706840.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Mate 8, Nxt-l09, NXT-L29, NXT-AL10A, NXT-AL10B, NXT-CL00B, NXT-DL00A, NXT-L09A, NXT-L09B, NXT-TL00A",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Mate 8 NXT-1753706803.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Mate 8 NXT-1753706803.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Mate 8 NXT-1753706803.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Mate 9 Pro, LON-AL00, LON-CL00, LON-L09, LON-L29, LON-TL10B",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Mate 9 PRO LON-XXX-1753707125.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Mate 9 PRO LON-XXX-1753707125.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Mate 9 PRO LON-XXX-1753707125.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Mate 9, MHA-AL10, MHA-L09, MHA-L29, MHA-TL00, MHA-AL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Mate 9 MHA-1753706901.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Mate 9 MHA-1753706901.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Mate 9 MHA-1753706901.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Mate X, TAH-N29m, TAH-N29, TAH-AN00, TAH-AN00m, TAH-TN00, TAH-N0J",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Mate X TAH-AN00-1753707510.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Mate X TAH-AN00-1753707510.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Mate X TAH-AN00-1753707510.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Mediapad T5 10, AGS2-W09, AGS2-W19, AGS2-AL00, AGS2-L09, AGS2-L03, AGS2-W09HN",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI MediaPad-T5-AGS2-W09-1753707589.png",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI MediaPad-T5-AGS2-W09-1753707589.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI MediaPad-T5-AGS2-W09-1753707589.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, MGA-LX9, MGA-AL00, MGA-LX3, MGA-AL40",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI MGA-LX9-1753706185.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI MGA-LX9-1753706185.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI MGA-LX9-1753706185.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, MRX-AL09, MRX-AL19, MRX-W09, MRX-W19, MRX-W29, MRX-AN19, MRX-W39",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI MRX-W09-1753706243.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI MRX-W09-1753706243.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI MRX-W09-1753706243.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, MT7-J1, MT7-TL00, MT7-TL10, MT7-TL20, MT7-UL00, Mate 7, MT7-L09, MT7-TL10A, MT7-L09, MT7-L11, MT7-TL00, MT7-CL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Ascend Mate 7 MT7-UL00 MT7-TL00 MT7-CL00 MT7-L09 MT7-TL10-1753702230.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Ascend Mate 7 MT7-UL00 MT7-TL00 MT7-CL00 MT7-L09 MT7-TL10-1753702230.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Ascend Mate 7 MT7-UL00 MT7-TL00 MT7-CL00 MT7-L09 MT7-TL10-1753702230.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, NMO-L01, NMO-L02, NMO-L03, NMO-L21, NMO-L22, NMO-L23, NMO-L31, NMO-L51",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI GR5 mini NMO-L31-1753704151.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI GR5 mini NMO-L31-1753704151.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI GR5 mini NMO-L31-1753704151.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, NOH-N29, NOH-AN00, NOH-NX9, NOH-AL10, NOH-AL00, NOH-AN01, NOH-NX4, NOH-AN50",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI NOH-LX9-1753707658.png",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI NOH-LX9-1753707658.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI NOH-LX9-1753707658.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Nova 2, PIC-AL00, PIC-TL00, PIC-L09, PIC-L29, PIC-LX9",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Nova 2 PIC-1753707731.png",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Nova 2 PIC-1753707731.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Nova 2 PIC-1753707731.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Nova 3, PAR-AL00, PAR-LX1, PAR-LX9, PAR-TL20, PAR-TL00, PAR-TL00, PAR-L29",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Nova 3 PAR-AL00-1753707803.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Nova 3 PAR-AL00-1753707803.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Nova 3 PAR-AL00-1753707803.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Nova 5 Pro, SEA-AL10, SEA-AL00, SEA-TL00, SEA-TL10",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Nova 5 Pro SEA-xxx-1753707858.png",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Nova 5 Pro SEA-xxx-1753707858.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Nova 5 Pro SEA-xxx-1753707858.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Nova 5i, GLK-LX1, GLK-LX2, GLK-LX3, GLK-AL00, GLK-TL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Nova 5i GLK-xxx-1753708091.png",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Nova 5i GLK-xxx-1753708091.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Nova 5i GLK-xxx-1753708091.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Nova 6 5G, Nova 6, WLZ-AN00, WLZ-AL10, WLZ-TL10",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Nova 6 5G WLZ-AN00-1753708168.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Nova 6 5G WLZ-AN00-1753708168.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Nova 6 5G WLZ-AN00-1753708168.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Nova 7, JEF-AN00, JEF-NX9, JEF-AN20, JEF-TN00, JEF-TN20",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Nova 7 5G JEF-AN20-1753708243.png",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Nova 7 5G JEF-AN20-1753708243.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Nova 7 5G JEF-AN20-1753708243.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, OCE-AL00, OCE-AN50, OCE-AL50, OCE-NX9, OCE-AN00, OCE-AN10",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI OCE-AN50-1753708487.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI OCE-AN50-1753708487.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI OCE-AN50-1753708487.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, P10 Plus, VKY-AL00, VKY-L29, VKY-L09, VKY-TL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI P10 Plus VKY-1753708534.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI P10 Plus VKY-1753708534.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI P10 Plus VKY-1753708534.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, P10, VTR-L09, VTR-L29, VTR-TL00, VTR-AL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI P10 VTR-1753708583.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI P10 VTR-1753708583.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI P10 VTR-1753708583.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, P20 Pro, CLT-L04, CLT-L09, CLT-L29, CLT-AL00, CLT-AL01, CLT-TL00, CLT-TL01, CLT-AL0j",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI P20 Pro CLT-xxx-1753708786.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI P20 Pro CLT-xxx-1753708786.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI P20 Pro CLT-xxx-1753708786.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, P30 Pro New Edition, VOG-L29, VOG-AL10, VOG-L04, VOG-L09, VOG-TL00, VOG-AL00, P30 Pro",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI P30 PRO VOG-AL00-1753708979.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI P30 PRO VOG-AL00-1753708979.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI P30 PRO VOG-AL00-1753708979.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, P30, ELE-AL00, ELE-L04, ELE-L09, ELE-L29, ELE-TL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI P30 ELE-AL00-1753708843.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI P30 ELE-AL00-1753708843.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI P30 ELE-AL00-1753708843.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, P40, ANA-N29, ANA-NX9, ANA-AN00, ANA-L04, ANA-L24, ANA-N24, ANA-TN00, ANA-LX4, ANA-AL00, ANA-N09",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI P40 ANA-xxx-1753709046.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI P40 ANA-xxx-1753709046.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI P40 ANA-xxx-1753709046.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, POT-AL00, POT-AL10, POT-LX2, POT-LX1, POT-L23, POT-L22, POT-L21, POT-LX3, POT-TL00, POT-L01, POT-L03",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI POT-LX1-1753709456.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI POT-LX1-1753709456.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI POT-LX1-1753709456.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, PPA-LX2, PPA-AL20, PPA-AL40, PPA-LX1, PPA-LX3",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI PPA-LX2-1753709510.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI PPA-LX2-1753709510.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI PPA-LX2-1753709510.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, PRA-LX1, PRA-LA1, PRA-LX3, PRA-AL00X, PRA-AL00, PRA-LX2, PRA-TL10",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI P8 Lite 2017 PRA-LA1-1753709233.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI P8 Lite 2017 PRA-LA1-1753709233.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI P8 Lite 2017 PRA-LA1-1753709233.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, RNE-L01, RNE-L02, RNE-L03, RNE-L21, RNE-L22, RNE-L23, RNE-AL00, RNE-AL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI RNE-L22-1753709568.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI RNE-L22-1753709568.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI RNE-L22-1753709568.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, S8-301u",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI S8-301U-1753709604.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI S8-301U-1753709604.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI S8-301U-1753709604.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, SHT-AL09, SHT-W09",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI SHT-1753709656.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI SHT-1753709656.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI SHT-1753709656.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, SPN-AL00, SPN-AL00, SPN-TL00, SPN-LX1, SPN-LX3, SPN-LX2",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI SPN-AL00-1753709748.jpeg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI SPN-AL00-1753709748.jpeg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI SPN-AL00-1753709748.jpeg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, STF-AL10, STF-AL00, STF-AL20, STF-L09, STF-L14, STF-L19, STF-L29, STF-L39, STF-TL10",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI STF-L09-1753709789.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI STF-L09-1753709789.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI STF-L09-1753709789.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, STK-LX1, STK-L01M, STK-L01, STK-L21, STK-LX3, STK-AL00, STK-L21VHN, STK-L22, STK-TL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI STK-LX1-1753709826.jpeg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI STK-LX1-1753709826.jpeg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI STK-LX1-1753709826.jpeg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, TEL-AN00, TEL-TN00, TEL-AN10",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI X10 TEL-AN00a-1753710096.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI X10 TEL-AN00a-1753710096.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI X10 TEL-AN00a-1753710096.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, VNS-L01, VNS-L02, VNS-L03, VNS-L11, VNS-L21, VNS-L22, VNS-L31, VNS-L53, P9 Lite, VNS-L23, VNS-L62",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI P9 Lite VNS-1753709410.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI P9 Lite VNS-1753709410.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI P9 Lite VNS-1753709410.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, WAS-LX1, WAS-LX1A, Washington, WAS-AL00, WAS-LX3, WAS-L03T, WAS-LX2, WAS-L22",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI WAS-LX1-1753710036.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI WAS-LX1-1753710036.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI WAS-LX1-1753710036.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Y9 2019, JKM-AL00, JKM-AL10, JKM-AL20, JKM-LX1, JKM-LX2, JKM-LX3, JKM-TL00, JKM-L22",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Y9 2019 JKM-xxx-1753710229.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Y9 2019 JKM-xxx-1753710229.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Y9 2019 JKM-xxx-1753710229.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "HiSilicon",
+    "title": "Huawei, HiSilicon, Yal-L21, Yal-L61, YAL-L41, Yal-L71, YAL-AL00, YAL-AL50, YAL-TL50, YAL-AL00, YAL-AL10, YAL-TL10, YAL-TL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Honor 20 YAL-xxx-1753704806.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Honor 20 YAL-xxx-1753704806.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Honor 20 YAL-xxx-1753704806.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "MTK",
+    "title": "Huawei, MTK, AMN-AL10, AMN-L03, AMN-L21, AMN-L22, AMN-L23, AMN-L29, AMN-LX1, AMN-LX3, AMN-LX9, AMN-L09",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI AMN-XXX-1753695558.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI AMN-XXX-1753695558.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI AMN-XXX-1753695558.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "MTK",
+    "title": "Huawei, MTK, DRA-L21, DRA-LX2, DRA-LX3, DRA-L02, DRA-L22, DRA-LX5, DRA-AL00, DRA-L42, DRA-L01, DRA-L03, DRA-LX9, DRA-L29",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI DRA-LX9-1753695772.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI DRA-LX9-1753695772.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI DRA-LX9-1753695772.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "MTK",
+    "title": "Huawei, MTK, DVC-AN20, DVC-AN00, DVC-TN20",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI DVC-XXX-1753695861.png",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI DVC-XXX-1753695861.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI DVC-XXX-1753695861.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "MTK",
+    "title": "Huawei, MTK, FRL-L22, FRL-L23, FRL-AN00A, FRL-AN20, FRL-TN00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI FRL-XXX-1753695974.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI FRL-XXX-1753695974.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI FRL-XXX-1753695974.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "MTK",
+    "title": "Huawei, MTK, Honor 9A, MOA-LX9N, MOA-AL00, MOA-AL20, MOA-L49, MOA-L49I, MOA-L49N, MOA-TL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HONOR 9A MOA-xxx-1753694932.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HONOR 9A MOA-xxx-1753694932.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HONOR 9A MOA-xxx-1753694932.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "MTK",
+    "title": "Huawei, MTK, Honor Play 5t",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HONOR PLAY 5T Pro CHL-AL00-1753695098.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HONOR PLAY 5T Pro CHL-AL00-1753695098.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HONOR PLAY 5T Pro CHL-AL00-1753695098.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "MTK",
+    "title": "Huawei, MTK, JAT-L21, JAT-L29, JAT-L41, JAT-AL00, JAT-LX1, JAT-AL00ID, JAT-L03, JAT-L21AHW, JAT-L23, JAT-L29HW, JAT-L41HW, JAT-TL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI JAT-XXX-1753696028.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI JAT-XXX-1753696028.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI JAT-XXX-1753696028.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "MTK",
+    "title": "Huawei, MTK, KKG-AN00, KKG-AN10, KKG-TN00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI KKG-XXX-1753696088.png",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI KKG-XXX-1753696088.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI KKG-XXX-1753696088.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "MTK",
+    "title": "Huawei, MTK, KOB2-L09, KOB2-W09",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI KOB2-xxx-1753696131.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI KOB2-xxx-1753696131.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI KOB2-xxx-1753696131.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "MTK",
+    "title": "Huawei, MTK, KSA-AL00, KSA-AL10, KSA-L22, KSA-L23, KSA-L29, KSA-LX9, KSA-TL00, KSA-L09, KSA-LX3",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI KSA-XXX-1753696189.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI KSA-XXX-1753696189.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI KSA-XXX-1753696189.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "MTK",
+    "title": "Huawei, MTK, KSE-LX9",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI KSE-XXX-1753696313.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI KSE-XXX-1753696313.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI KSE-XXX-1753696313.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "MTK",
+    "title": "Huawei, MTK, MED-LX9, MED-LX9N, MED-AL00, MED-AL20, MED-L09, MED-L29, MED-L49, MED-TL00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI ENJOY 10E MED-xxx-1753695901.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI ENJOY 10E MED-xxx-1753695901.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI ENJOY 10E MED-xxx-1753695901.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "MTK",
+    "title": "Huawei, MTK, MRD-L03, MRD-L11, MRD-L21, MRD-L41, MRD-AL00, MRD-TL00, MRD-LX1, MRD-LX1F, MRD-LX3, MRD-LX2, MRD-L22",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI MRD-XXX-1753696421.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI MRD-XXX-1753696421.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI MRD-XXX-1753696421.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "MTK",
+    "title": "Huawei, MTK, MXW-AN00, MXW-AN00, MXW-TN00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI MXW-XXX-1753696464.png",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI MXW-XXX-1753696464.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI MXW-XXX-1753696464.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "MTK",
+    "title": "Huawei, MTK, Nova Y60",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Nova Y60-1753696506.png",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Nova Y60-1753696506.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Nova Y60-1753696506.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "MTK",
+    "title": "Huawei, MTK, TNN-AN00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI TNN-XXX-1753696749.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI TNN-XXX-1753696749.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI TNN-XXX-1753696749.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "MTK",
+    "title": "Huawei, MTK, TNNH-AN00",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI TNNH-XXX-1753696770.png",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI TNNH-XXX-1753696770.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI TNNH-XXX-1753696770.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "MTK",
+    "title": "Huawei, MTK, WKG-AN00, WKG-TN00, WKG-L09, WKG-L29 1",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI WKG-L09-1753696875.png",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI WKG-L09-1753696875.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI WKG-L09-1753696875.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "MTK",
+    "title": "Huawei, MTK, WKG-AN00, WKG-TN00, WKG-L09, WKG-L29 2",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI WKG-XXX-1753696876.png",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI WKG-XXX-1753696876.png",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI WKG-XXX-1753696876.png"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "MTK",
+    "title": "Huawei, MTK, Y5P",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Y5P-1753696918.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Y5P-1753696918.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Y5P-1753696918.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "platform": "MTK",
+    "title": "Huawei, MTK, Y6P",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI Y6P-1753696964.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI Y6P-1753696964.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI Y6P-1753696964.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "platform": "MTK",
+    "title": "Motorola, MTK, E7",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Moto E7-1753723612.jpg",
+    "local_image_path": "testpoints/images/Moto E7-1753723612.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Moto E7-1753723612.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "platform": "MTK",
+    "title": "Motorola, MTK, Edge 20 Lite",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Moto Edge 20 Lite-1753723666.jpg",
+    "local_image_path": "testpoints/images/Moto Edge 20 Lite-1753723666.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Moto Edge 20 Lite-1753723666.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "platform": "MTK",
+    "title": "Motorola, MTK, G Pure 2021",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Moto G Pure 2021-1753723708.jpg",
+    "local_image_path": "testpoints/images/Moto G Pure 2021-1753723708.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Moto G Pure 2021-1753723708.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "platform": "MTK",
+    "title": "Motorola, MTK, G8 Power Lite",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Moto G8 Power Lite-1753723767.jpg",
+    "local_image_path": "testpoints/images/Moto G8 Power Lite-1753723767.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Moto G8 Power Lite-1753723767.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "platform": "MTK",
+    "title": "Motorola, MTK, XT2053-1, XT2053-2, XT2053-4, XT2053-3",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Moto E6s (XT2053-1)-1753723555.jpg",
+    "local_image_path": "testpoints/images/Moto E6s (XT2053-1)-1753723555.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Moto E6s (XT2053-1)-1753723555.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "platform": "MTK",
+    "title": "Motorola, MTK, XT2055-1",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Moto G8 Power (XT2055)-1-1753724030.jpg",
+    "local_image_path": "testpoints/images/Moto G8 Power (XT2055)-1-1753724030.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Moto G8 Power (XT2055)-1-1753724030.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "platform": "Qualcomm",
+    "title": "Motorola, Qualcomm, G6 Play, XT1922-7, XT1922-4",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Moto G6 Play (XT1922)-1753723955.jpg",
+    "local_image_path": "testpoints/images/Moto G6 Play (XT1922)-1753723955.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Moto G6 Play (XT1922)-1753723955.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "platform": "Qualcomm",
+    "title": "Motorola, Qualcomm, XT1804",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Moto G5s Plus Global (XT1804)-1753723901.jpg",
+    "local_image_path": "testpoints/images/Moto G5s Plus Global (XT1804)-1753723901.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Moto G5s Plus Global (XT1804)-1753723901.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "platform": "Qualcomm",
+    "title": "Motorola, Qualcomm, XT1941-4",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Moto One (XT1941)-1753724111.jpg",
+    "local_image_path": "testpoints/images/Moto One (XT1941)-1753724111.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Moto One (XT1941)-1753724111.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy A04s, SM-A047M, SM-A047F",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A04s (SM-A047F, SM-A047M)-1754406532.jpg",
+    "local_image_path": "testpoints/images/Galaxy A04s (SM-A047F, SM-A047M)-1754406532.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A04s (SM-A047F, SM-A047M)-1754406532.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy A10, SM-A105F, SM-A105FN, SM-A105G, SM-A105M, SM-A105N",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A10 (SM-A105M, SM-A105G, SM-A105N, SM-A105F, SM-A105FN)-1762501736.jpg",
+    "local_image_path": "testpoints/images/Galaxy A10 (SM-A105M, SM-A105G, SM-A105N, SM-A105F, SM-A105FN)-1762501736.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A10 (SM-A105M, SM-A105G, SM-A105N, SM-A105F, SM-A105FN)-1762501736.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy A10e, SM-A102N, SM-A102U, SM-A102U1, SM-A102W",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A10e (SM-S102DL, SM-A102N, SM-A102U, SM-A102W, SM-A102U1)-1762502113.jpg",
+    "local_image_path": "testpoints/images/Galaxy A10e (SM-S102DL, SM-A102N, SM-A102U, SM-A102W, SM-A102U1)-1762502113.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A10e (SM-S102DL, SM-A102N, SM-A102U, SM-A102W, SM-A102U1)-1762502113.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy A12, SM-A127M, SM-A127F",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A12 (SM-A127F, SM-A127M)-1754406627.jpg",
+    "local_image_path": "testpoints/images/Galaxy A12 (SM-A127F, SM-A127M)-1754406627.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A12 (SM-A127F, SM-A127M)-1754406627.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy A14 5G, SM-A146B, SM-A146M",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A14 5G (SM-A146B, SM-A146M)-1755762764.jpg",
+    "local_image_path": "testpoints/images/Galaxy A14 5G (SM-A146B, SM-A146M)-1755762764.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A14 5G (SM-A146B, SM-A146M)-1755762764.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy A14, SM-A145F, SM-A145FB, SM-A145M, SM-A145MB",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A14 (SM-A145F, SM-A145FB, SM-A145M, SM-A145MB)-1754406990.jpg",
+    "local_image_path": "testpoints/images/Galaxy A14 (SM-A145F, SM-A145FB, SM-A145M, SM-A145MB)-1754406990.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A14 (SM-A145F, SM-A145FB, SM-A145M, SM-A145MB)-1754406990.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy A16 5G, SM-A1660, SM-A166B, SM-A166E, SM-A166M, SM-A166U, SM-A166U1, SM-A166W",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A16 5G (SM-A166B SM-A166E SM-A166M SM-A166U SM-A166U1 SM-A166W SM-A1660)-1755762848.jpg",
+    "local_image_path": "testpoints/images/Galaxy A16 5G (SM-A166B SM-A166E SM-A166M SM-A166U SM-A166U1 SM-A166W SM-A1660)-1755762848.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A16 5G (SM-A166B SM-A166E SM-A166M SM-A166U SM-A166U1 SM-A166W SM-A1660)-1755762848.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy A20, SC-V46, SM-A205F, SM-A205FN, SM-A205G, SM-A205GN, SM-A205S, SM-A205U, SM-A205U1, SM-A205W, SM-A205YN",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A20 (SM-A205S, SM-A205FN, SM-S205DL, SM-A205U1, SM-A205W, SM-A205G, SM-A205U, SM-A205YN, SM-A205GN, SM-A205F)-1762502569.jpg",
+    "local_image_path": "testpoints/images/Galaxy A20 (SM-A205S, SM-A205FN, SM-S205DL, SM-A205U1, SM-A205W, SM-A205G, SM-A205U, SM-A205YN, SM-A205GN, SM-A205F)-1762502569.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A20 (SM-A205S, SM-A205FN, SM-S205DL, SM-A205U1, SM-A205W, SM-A205G, SM-A205U, SM-A205YN, SM-A205GN, SM-A205F)-1762502569.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy A21s, SM-A217F, SM-A217M, SM-A217N",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A21s (SM-A217F, SM-A217M, SM-A217N)-1754407047.jpg",
+    "local_image_path": "testpoints/images/Galaxy A21s (SM-A217F, SM-A217M, SM-A217N)-1754407047.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A21s (SM-A217F, SM-A217M, SM-A217N)-1754407047.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy A25 5G, SM-A2560, SM-A256B, SM-A256E, SM-A256N, SM-A256U, SM-A256U1",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A25 5G (SM-A256U1 SM-A256U SM-A256N SM-A2560 SM-A256B SM-A256E SM-S256VL)-1755760749.jpg",
+    "local_image_path": "testpoints/images/Galaxy A25 5G (SM-A256U1 SM-A256U SM-A256N SM-A2560 SM-A256B SM-A256E SM-S256VL)-1755760749.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A25 5G (SM-A256U1 SM-A256U SM-A256N SM-A2560 SM-A256B SM-A256E SM-S256VL)-1755760749.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy A26 5G, SM-A266B",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A26 (SM-A266B)-1755763180.jpg",
+    "local_image_path": "testpoints/images/Galaxy A26 (SM-A266B)-1755763180.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A26 (SM-A266B)-1755763180.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy A30, SC-V43, SM-A305F, SM-A305FN, SM-A305G, SM-A305GN, SM-A305GT, SM-A305N, SM-A305YN, SM-A3050, SM-A3058",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A30 (SCV43 SM-A305YN, SM-A3058, SM-A305F, SM-A305N, SM-A305GN, SM-A3050, SM-A305G, SCV43, SM-A305GT, SM-A305FN)-1762503322.jpg",
+    "local_image_path": "testpoints/images/Galaxy A30 (SCV43 SM-A305YN, SM-A3058, SM-A305F, SM-A305N, SM-A305GN, SM-A3050, SM-A305G, SCV43, SM-A305GT, SM-A305FN)-1762503322.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A30 (SCV43 SM-A305YN, SM-A3058, SM-A305F, SM-A305N, SM-A305GN, SM-A3050, SM-A305G, SCV43, SM-A305GT, SM-A305FN)-1762503322.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy A30s, SM-A307FN, SM-A307G, SM-A307GN, SM-A307GT",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A30s (SM-A307FN, SM-A307G, SM-A307GN, SM-A307GT)-1762503360.jpg",
+    "local_image_path": "testpoints/images/Galaxy A30s (SM-A307FN, SM-A307G, SM-A307GN, SM-A307GT)-1762503360.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A30s (SM-A307FN, SM-A307G, SM-A307GN, SM-A307GT)-1762503360.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy A33 5G, SM-A3360, SM-A336B, SM-A336E, SM-A336M, SM-A336N",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A33 5G (SM-A3360, SM-A336B, SM-A336E, SM-A336M, SM-A336N)-1755761164.jpg",
+    "local_image_path": "testpoints/images/Galaxy A33 5G (SM-A3360, SM-A336B, SM-A336E, SM-A336M, SM-A336N)-1755761164.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A33 5G (SM-A3360, SM-A336B, SM-A336E, SM-A336M, SM-A336N)-1755761164.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy A35 5G, SM-A3560, SM-A356B, SM-A356E, SM-A356N, SM-A356U, SM-S356V",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A35 5G (SM-S356V SM-A356N SM-A3560 SM-A356B SM-A356U SM-A356E)-1755763215.jpg",
+    "local_image_path": "testpoints/images/Galaxy A35 5G (SM-S356V SM-A356N SM-A3560 SM-A356B SM-A356U SM-A356E)-1755763215.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A35 5G (SM-S356V SM-A356N SM-A3560 SM-A356B SM-A356U SM-A356E)-1755763215.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy A40, SM-A405FM, SM-A405FN, SM-A405S",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A40 (SM-A405FM, SM-A405S, SM-A405FN)-1762503186.jpg",
+    "local_image_path": "testpoints/images/Galaxy A40 (SM-A405FM, SM-A405S, SM-A405FN)-1762503186.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A40 (SM-A405FM, SM-A405S, SM-A405FN)-1762503186.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy A50s, SM-A5070, SM-A507FN",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A50s (SM-A5070, SM-A507FN)-1761658016.jpg",
+    "local_image_path": "testpoints/images/Galaxy A50s (SM-A5070, SM-A507FN)-1761658016.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A50s (SM-A5070, SM-A507FN)-1761658016.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy A51 5G, SM-A5160, SM-A516B, SM-A516N, SM-A516U, SM-A516U1",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A51 5G (SM-A516B, SM-A516N, SM-A516U, SM-A516U1, SM-A5160)-1758698726.jpg",
+    "local_image_path": "testpoints/images/Galaxy A51 5G (SM-A516B, SM-A516N, SM-A516U, SM-A516U1, SM-A5160)-1758698726.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A51 5G (SM-A516B, SM-A516N, SM-A516U, SM-A516U1, SM-A5160)-1758698726.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy A51, SM-A515F, SM-A515U, SM-A515U1, SM-A515W",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A51 2019 (SM-A515W, SM-A515F, SM-S515DL, SM-A515U1, SM-A515U)-1761658830.jpg",
+    "local_image_path": "testpoints/images/Galaxy A51 2019 (SM-A515W, SM-A515F, SM-S515DL, SM-A515U1, SM-A515U)-1761658830.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A51 2019 (SM-A515W, SM-A515F, SM-S515DL, SM-A515U1, SM-A515U)-1761658830.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy A53 5G, SC-53C, SCG15, SM-A5360, SM-A536B, SM-A536E, SM-A536N, SM-A536U, SM-A536U1, SM-A536V, SM-A536W",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A53 5G (SM-A536U SM-S536DL SC-53C SM-A5360, SM-A536B, SM-A536E, SM-A536N, SM-A536V, SM-A536W SCG15 SM-A536U1)-1755761379.jpg",
+    "local_image_path": "testpoints/images/Galaxy A53 5G (SM-A536U SM-S536DL SC-53C SM-A5360, SM-A536B, SM-A536E, SM-A536N, SM-A536V, SM-A536W SCG15 SM-A536U1)-1755761379.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A53 5G (SM-A536U SM-S536DL SC-53C SM-A5360, SM-A536B, SM-A536E, SM-A536N, SM-A536V, SM-A536W SCG15 SM-A536U1)-1755761379.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy A55 5G (Exynos), SM-A5560, SM-A556B, SM-A556E 2",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/TESTPOINT HUAWEI P50_ABR-LX9-1753699792-1761490340.jpg",
+    "local_image_path": "testpoints/images/TESTPOINT HUAWEI P50_ABR-LX9-1753699792-1761490340.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/TESTPOINT HUAWEI P50_ABR-LX9-1753699792-1761490340.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy A7, SM-A750C, SM-A750F, SM-A750FN, SM-A750G, SM-A750GN, SM-A750N",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A7 2018 (SM-A750G, SM-A750FN, SM-A750GN, SM-A750F, SM-A750C, SM-A750N)-1762502827.jpg",
+    "local_image_path": "testpoints/images/Galaxy A7 2018 (SM-A750G, SM-A750FN, SM-A750GN, SM-A750F, SM-A750C, SM-A750N)-1762502827.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A7 2018 (SM-A750G, SM-A750FN, SM-A750GN, SM-A750F, SM-A750C, SM-A750N)-1762502827.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy A71 5G, SM-A7160, SM-A716B, Galaxy A Quantum, SM-A716S",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A71 5G (SM-A716B, SM-A716S, SM-A7160)-1758698928.jpg",
+    "local_image_path": "testpoints/images/Galaxy A71 5G (SM-A716B, SM-A716S, SM-A7160)-1758698928.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A71 5G (SM-A716B, SM-A716S, SM-A7160)-1758698928.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy F13, SM-E135F",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy F13 (SM-E135F)-1754407334.jpg",
+    "local_image_path": "testpoints/images/Galaxy F13 (SM-E135F)-1754407334.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy F13 (SM-E135F)-1754407334.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy F14 5G, SM-E146B",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy F14 5G (SM-E146B)-1755762904.jpg",
+    "local_image_path": "testpoints/images/Galaxy F14 5G (SM-E146B)-1755762904.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy F14 5G (SM-E146B)-1755762904.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy F34 5G, SM-E346B",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy F34 5G (SM-E346B)-1755761443.jpg",
+    "local_image_path": "testpoints/images/Galaxy F34 5G (SM-E346B)-1755761443.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy F34 5G (SM-E346B)-1755761443.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy F41, SM-F415F",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy F41 (SM-F415F)-1761658929.jpg",
+    "local_image_path": "testpoints/images/Galaxy F41 (SM-F415F)-1761658929.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy F41 (SM-F415F)-1761658929.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy F62, SM-E625F",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy F62 (SM-E625F)-1754408471.jpg",
+    "local_image_path": "testpoints/images/Galaxy F62 (SM-E625F)-1754408471.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy F62 (SM-E625F)-1754408471.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy Jump 2 5G, SM-M336K, SM-M336B, SM-M336BU",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy M33 (SM-M336B, SM-M336BU, SM-M336K)-1755761530.jpg",
+    "local_image_path": "testpoints/images/Galaxy M33 (SM-M336B, SM-M336BU, SM-M336K)-1755761530.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy M33 (SM-M336B, SM-M336BU, SM-M336K)-1755761530.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy M12, SM-M127F, SM-M127G, SM-M127N 1",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy M12 (SM-M127F, SM-M127G, SM-M127N)-1754407414.jpg",
+    "local_image_path": "testpoints/images/Galaxy M12 (SM-M127F, SM-M127G, SM-M127N)-1754407414.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy M12 (SM-M127F, SM-M127G, SM-M127N)-1754407414.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy M14 5G, SM-M146B",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy M14 5G (SM-M146B)-1755763112.jpg",
+    "local_image_path": "testpoints/images/Galaxy M14 5G (SM-M146B)-1755763112.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy M14 5G (SM-M146B)-1755763112.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy M20, SM-M205F, SM-M205FN, SM-M205G, SM-M205M, SM-M205N",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy M20 (SM-M205FN SM-M205F, SM-M205G, SM-M205FN, SM-M205M, SM-M205N)-1762503142.jpg",
+    "local_image_path": "testpoints/images/Galaxy M20 (SM-M205FN SM-M205F, SM-M205G, SM-M205FN, SM-M205M, SM-M205N)-1762503142.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy M20 (SM-M205FN SM-M205F, SM-M205G, SM-M205FN, SM-M205M, SM-M205N)-1762503142.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy M21, SM-M215F, SM-M215G",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy M21 (SM-M215F, SM-M215G)-1761658974.jpg",
+    "local_image_path": "testpoints/images/Galaxy M21 (SM-M215F, SM-M215G)-1761658974.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy M21 (SM-M215F, SM-M215G)-1761658974.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy M31, SM-M315F",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy M31 (SM-M315F)-1761659038.jpg",
+    "local_image_path": "testpoints/images/Galaxy M31 (SM-M315F)-1761659038.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy M31 (SM-M315F)-1761659038.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy M31s, SM-M317F",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy M31s (SM-M317F)-1761659186.jpg",
+    "local_image_path": "testpoints/images/Galaxy M31s (SM-M317F)-1761659186.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy M31s (SM-M317F)-1761659186.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy M34 5G, SM-M346B, SM-M346B1, SM-M346B2",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy M34 5G (SM-M346B1, SM-M346B SM-M346B2)-1755761602.jpg",
+    "local_image_path": "testpoints/images/Galaxy M34 5G (SM-M346B1, SM-M346B SM-M346B2)-1755761602.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy M34 5G (SM-M346B1, SM-M346B SM-M346B2)-1755761602.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy M35 5G, SM-M356B",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy M35 (SM-M356B)-1755763544.jpg",
+    "local_image_path": "testpoints/images/Galaxy M35 (SM-M356B)-1755763544.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy M35 (SM-M356B)-1755763544.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy M54 5G, SM-M546B",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy M54 5G (SM-M546B)-1755763590.jpg",
+    "local_image_path": "testpoints/images/Galaxy M54 5G (SM-M546B)-1755763590.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy M54 5G (SM-M546B)-1755763590.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy M56 5G, SM-M566B",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Samsung Galaxy M56 (SM-M566B)-1767021880.jpg",
+    "local_image_path": "testpoints/images/Samsung Galaxy M56 (SM-M566B)-1767021880.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Samsung Galaxy M56 (SM-M566B)-1767021880.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy M62, SM-M625F",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy M62 (SM-M625F)-1754408518.jpg",
+    "local_image_path": "testpoints/images/Galaxy M62 (SM-M625F)-1754408518.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy M62 (SM-M625F)-1754408518.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy Note 10, SM-N970F",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Note 10 (SM-N970F)-1754408560.jpg",
+    "local_image_path": "testpoints/images/Galaxy Note 10 (SM-N970F)-1754408560.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Note 10 (SM-N970F)-1754408560.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy Note 10+, SM-N975F, SM-N976B",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Note 10+ (SM-N975f, SM-N976B, SM-N976N)-1754408905.jpg",
+    "local_image_path": "testpoints/images/Galaxy Note 10+ (SM-N975f, SM-N976B, SM-N976N)-1754408905.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Note 10+ (SM-N975f, SM-N976B, SM-N976N)-1754408905.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy Note 20 Ultra, SM-N985F",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Note20 Ultra (SM-N985F)-1754409212.jpg",
+    "local_image_path": "testpoints/images/Galaxy Note20 Ultra (SM-N985F)-1754409212.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Note20 Ultra (SM-N985F)-1754409212.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy Note 20, SM-N980F",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Note 20 (SM-N980F)-1754409161.jpg",
+    "local_image_path": "testpoints/images/Galaxy Note 20 (SM-N980F)-1754409161.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Note 20 (SM-N980F)-1754409161.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy S10, SM-G973F, SM-G973N 1",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S10 (SM-G973F, SM-G973N)-1754408075.jpg",
+    "local_image_path": "testpoints/images/Galaxy S10 (SM-G973F, SM-G973N)-1754408075.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S10 (SM-G973F, SM-G973N)-1754408075.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy S20 5G, SM-G981B",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S20 5G (SM-G981B)-1754409281.jpg",
+    "local_image_path": "testpoints/images/Galaxy S20 5G (SM-G981B)-1754409281.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S20 5G (SM-G981B)-1754409281.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy S20 FE, SM-G780F",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S20 FE (SM-G780F)-1754409305.jpg",
+    "local_image_path": "testpoints/images/Galaxy S20 FE (SM-G780F)-1754409305.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S20 FE (SM-G780F)-1754409305.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy S20 Ultra, SM-G988B",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S20 Ultra 5G (SM-G988B)-1754409355.jpg",
+    "local_image_path": "testpoints/images/Galaxy S20 Ultra 5G (SM-G988B)-1754409355.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S20 Ultra 5G (SM-G988B)-1754409355.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy S20, SM-G980F",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S20 (SM-G980F SM-981B)-1754409251.jpg",
+    "local_image_path": "testpoints/images/Galaxy S20 (SM-G980F SM-981B)-1754409251.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S20 (SM-G980F SM-981B)-1754409251.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy S20+ 5G, SM-G986B",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S20 Plus (SM-G986B)-1754409416.jpg",
+    "local_image_path": "testpoints/images/Galaxy S20 Plus (SM-G986B)-1754409416.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S20 Plus (SM-G986B)-1754409416.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy S20+, SM-G985F",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S20 Plus (SM-G985F)-1754409385.jpg",
+    "local_image_path": "testpoints/images/Galaxy S20 Plus (SM-G985F)-1754409385.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S20 Plus (SM-G985F)-1754409385.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy S21 5G, SM-G991B, SM-G991N",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S21 5G (SM-G991N SM-G991B, SM-G991N)-1754409448.jpg",
+    "local_image_path": "testpoints/images/Galaxy S21 5G (SM-G991N SM-G991B, SM-G991N)-1754409448.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S21 5G (SM-G991N SM-G991B, SM-G991N)-1754409448.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy S21 FE 5G, SM-G990E",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S21 FE (SM-G990E)-1754409494.jpg",
+    "local_image_path": "testpoints/images/Galaxy S21 FE (SM-G990E)-1754409494.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S21 FE (SM-G990E)-1754409494.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy S21 Ultra 5G, SM-G998B, SM-G998N",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S21 Ultra 5G (SM-G998B SM-G998N)-1754409528.jpg",
+    "local_image_path": "testpoints/images/Galaxy S21 Ultra 5G (SM-G998B SM-G998N)-1754409528.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S21 Ultra 5G (SM-G998B SM-G998N)-1754409528.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy S21+ 5G, SM-G996B, SM-G996N",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S21 Plus 5G (SM-G996B SM-G996N)-1754409572.jpg",
+    "local_image_path": "testpoints/images/Galaxy S21 Plus 5G (SM-G996B SM-G996N)-1754409572.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S21 Plus 5G (SM-G996B SM-G996N)-1754409572.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy Tab S6 Lite, SM-P615, SM-P615C, M-P615N, SM-P617",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Tab S6 Lite 10.4 (SM-P615N, SM-P615, SM-P615C, SM-P617)-1761659280.jpg",
+    "local_image_path": "testpoints/images/Galaxy Tab S6 Lite 10.4 (SM-P615N, SM-P615, SM-P615C, SM-P617)-1761659280.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Tab S6 Lite 10.4 (SM-P615N, SM-P615, SM-P615C, SM-P617)-1761659280.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy Tab S9 FE 5G, SM-X516B",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Tab S9 (SM-X516B)-1767021963.jpg",
+    "local_image_path": "testpoints/images/Galaxy Tab S9 (SM-X516B)-1767021963.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Tab S9 (SM-X516B)-1767021963.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy XCover 4s, SM-G398FN",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Xcover 4 (SM-G398FN)-1762502964.jpg",
+    "local_image_path": "testpoints/images/Galaxy Xcover 4 (SM-G398FN)-1762502964.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Xcover 4 (SM-G398FN)-1762502964.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy Xcover 5, SM-G525F",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy XCover 5 (SM-G525F, SM-G525N)-1754407677.jpg",
+    "local_image_path": "testpoints/images/Galaxy XCover 5 (SM-G525F, SM-G525N)-1754407677.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy XCover 5 (SM-G525F, SM-G525N)-1754407677.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, Galaxy XCover Pro, SM-G715A, SM-G715FN, SM-G715U, SM-G715U1, SM-G715W",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy XCover Pro (SM-G715W SM-G715U1 SM-G715U SM-G715FN SM-G715A)-1761659369.jpg",
+    "local_image_path": "testpoints/images/Galaxy XCover Pro (SM-G715W SM-G715U1 SM-G715U SM-G715FN SM-G715A)-1761659369.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy XCover Pro (SM-G715W SM-G715U1 SM-G715U SM-G715FN SM-G715A)-1761659369.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, SC-53D, SCG21, SM-A5460, SM-A546B, SM-A546E, SM-A546S, SM-A546U, SM-A546U1, SM-A546V, SM-A546W",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A54 5G (SM-A5460, SM-A546B, SM-A546E, SM-A546S, SM-A546U, SM-A546U1, SM-A546V, SM-A546W, SM-S546VL SCG21 SC-53D)-1755763327.jpg",
+    "local_image_path": "testpoints/images/Galaxy A54 5G (SM-A5460, SM-A546B, SM-A546E, SM-A546S, SM-A546U, SM-A546U1, SM-A546V, SM-A546W, SM-S546VL SCG21 SC-53D)-1755763327.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A54 5G (SM-A5460, SM-A546B, SM-A546E, SM-A546S, SM-A546U, SM-A546U1, SM-A546V, SM-A546W, SM-S546VL SCG21 SC-53D)-1755763327.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, SC-V46, Galaxy A20e, SM-A202F, SM-A202K",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A20e (SM-A202F, SM-A202K, SCV46)-1762502366.jpg",
+    "local_image_path": "testpoints/images/Galaxy A20e (SM-A202F, SM-A202K, SCV46)-1762502366.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A20e (SM-A202F, SM-A202K, SCV46)-1762502366.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, SM-A135F, Galaxy A13, SM-A135M, SM-A135N, SM-A135U, SM-A135U1",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A13 (SM-A135F, SM-A135M, SM-A135N SM-A135U, SM-A135U1)-1754406890.jpg",
+    "local_image_path": "testpoints/images/Galaxy A13 (SM-A135F, SM-A135M, SM-A135N SM-A135U, SM-A135U1)-1754406890.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A13 (SM-A135F, SM-A135M, SM-A135N SM-A135U, SM-A135U1)-1754406890.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, SM-A505F, SM-A505FM, SM-A505FN, SM-A505G, SM-A505GN, SM-A505GT, SM-A505N, SM-A505U, SM-A505U1, SM-A505W, SM-A505YN 1",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A50 (SM-A505GN, SM-A505U1, SM-A505FN, SM-A505U, SM-A505F, SM-A505N, SM-A505W, SM-A505YN, SM-S506DL, SM-A505G, SM-A505FM, SM-A505GT)-1754407909.jpg",
+    "local_image_path": "testpoints/images/Galaxy A50 (SM-A505GN, SM-A505U1, SM-A505FN, SM-A505U, SM-A505F, SM-A505N, SM-A505W, SM-A505YN, SM-S506DL, SM-A505G, SM-A505FM, SM-A505GT)-1754407909.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A50 (SM-A505GN, SM-A505U1, SM-A505FN, SM-A505U, SM-A505F, SM-A505N, SM-A505W, SM-A505YN, SM-S506DL, SM-A505G, SM-A505FM, SM-A505GT)-1754407909.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, SM-E546B, Galaxy F54 5G",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy F54 5G (SM-E546B SM-F54)-1755763457.jpg",
+    "local_image_path": "testpoints/images/Galaxy F54 5G (SM-E546B SM-F54)-1755763457.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy F54 5G (SM-E546B SM-F54)-1755763457.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, SM-F127G, Galaxy F12",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy F12 (SM-F127G)-1754407293.jpg",
+    "local_image_path": "testpoints/images/Galaxy F12 (SM-F127G)-1754407293.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy F12 (SM-F127G)-1754407293.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, SM-G975N, SM-G970F, Galaxy S10e",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S10e (SM-G970F, SM-G970N)-1754408364.jpg",
+    "local_image_path": "testpoints/images/Galaxy S10e (SM-G970F, SM-G970N)-1754408364.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S10e (SM-G970F, SM-G970N)-1754408364.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, SM-M135F, Galaxy M13, SM-M135FU, SM-M135M",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy M13 (SM-M135F, SM-M135FU, SM-M135M)-1754407618.jpg",
+    "local_image_path": "testpoints/images/Galaxy M13 (SM-M135F, SM-M135FU, SM-M135M)-1754407618.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy M13 (SM-M135F, SM-M135FU, SM-M135M)-1754407618.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, SM-S711B, SM-S711N, Galaxy S23 FE (Exynos)",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S23 FE 5G (SM-S711N SM-S711B)-1761578059.jpg",
+    "local_image_path": "testpoints/images/Galaxy S23 FE 5G (SM-S711N SM-S711B)-1761578059.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S23 FE 5G (SM-S711N SM-S711B)-1761578059.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, SM-S901B, Galaxy S22 (Exynos)",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S22 5G (SM-S901B)-1761578146.jpg",
+    "local_image_path": "testpoints/images/Galaxy S22 5G (SM-S901B)-1761578146.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S22 5G (SM-S901B)-1761578146.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, SM-S906B, Galaxy S22 Plus (Exynos)",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S22 Plus 5G (SM-S906B)-1761047515-1761490459.jpg",
+    "local_image_path": "testpoints/images/Galaxy S22 Plus 5G (SM-S906B)-1761047515-1761490459.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S22 Plus 5G (SM-S906B)-1761047515-1761490459.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "title": "Samsung, Exynos, SM-S908B, Galaxy S22 Ultra (Exynos)",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S22 Ultra 5G (SM-S908B)-1761578100.jpg",
+    "local_image_path": "testpoints/images/Galaxy S22 Ultra 5G (SM-S908B)-1761578100.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S22 Ultra 5G (SM-S908B)-1761578100.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "MTK",
+    "title": "Samsung, MTK, Galaxy A04e, SM-A042F",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A04e (SM-A042F SM-A042M)-1767089727.jpg",
+    "local_image_path": "testpoints/images/Galaxy A04e (SM-A042F SM-A042M)-1767089727.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A04e (SM-A042F SM-A042M)-1767089727.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "MTK",
+    "title": "Samsung, MTK, Galaxy A05, SM-A055F",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A05 (SM-A055F SM-A055M)-1767089693.jpg",
+    "local_image_path": "testpoints/images/Galaxy A05 (SM-A055F SM-A055M)-1767089693.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A05 (SM-A055F SM-A055M)-1767089693.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "MTK",
+    "title": "Samsung, MTK, Galaxy A13 5G, SM-A136U",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A13 5G (SM-A136U SM-A136B)-1767089654.jpg",
+    "local_image_path": "testpoints/images/Galaxy A13 5G (SM-A136U SM-A136B)-1767089654.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A13 5G (SM-A136U SM-A136B)-1767089654.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "MTK",
+    "title": "Samsung, MTK, Galaxy A14 5G, SM-A146P 1",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A14 5G (SM-A146P)-1767089551.jpg",
+    "local_image_path": "testpoints/images/Galaxy A14 5G (SM-A146P)-1767089551.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A14 5G (SM-A146P)-1767089551.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "MTK",
+    "title": "Samsung, MTK, Galaxy A14 5G, SM-A146P 2",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A14 5G (SM-A146U)-1767089564.jpg",
+    "local_image_path": "testpoints/images/Galaxy A14 5G (SM-A146U)-1767089564.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A14 5G (SM-A146U)-1767089564.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "MTK",
+    "title": "Samsung, MTK, Galaxy A22 5G",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A22 5G (SM-A226L)-1767023591.jpg",
+    "local_image_path": "testpoints/images/Galaxy A22 5G (SM-A226L)-1767023591.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A22 5G (SM-A226L)-1767023591.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "MTK",
+    "title": "Samsung, MTK, Galaxy A34 5G, SM-A346E",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A34 5G (SM-A3460 SM-A346E SM-A346B SM-A346M SM-A346N)-1767089498.jpg",
+    "local_image_path": "testpoints/images/Galaxy A34 5G (SM-A3460 SM-A346E SM-A346B SM-A346M SM-A346N)-1767089498.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A34 5G (SM-A3460 SM-A346E SM-A346B SM-A346M SM-A346N)-1767089498.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "MTK",
+    "title": "Samsung, MTK, SM-A013F, SM-A013G, SM-A013M, Galaxy A01 Core",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A01 (SM-A013G SM-A013M SM-A013F)-1767022859.jpg",
+    "local_image_path": "testpoints/images/Galaxy A01 (SM-A013G SM-A013M SM-A013F)-1767022859.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A01 (SM-A013G SM-A013M SM-A013F)-1767022859.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "MTK",
+    "title": "Samsung, MTK, SM-A022F, SM-A022G, SM-A022M, Galaxy A02",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A02 (SM-A022F SM-A022G SM-A022M)-1767022604.jpg",
+    "local_image_path": "testpoints/images/Galaxy A02 (SM-A022F SM-A022G SM-A022M)-1767022604.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A02 (SM-A022F SM-A022G SM-A022M)-1767022604.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "MTK",
+    "title": "Samsung, MTK, SM-A037F, Galaxy A03s",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A03s (SM-A037F)-1767022299.jpg",
+    "local_image_path": "testpoints/images/Galaxy A03s (SM-A037F)-1767022299.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A03s (SM-A037F)-1767022299.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "MTK",
+    "title": "Samsung, MTK, SM-A037G, SM-A037M, SM-A037F, Galaxy A03s 2",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A03s (SM-A037G)-1767022521.jpg",
+    "local_image_path": "testpoints/images/Galaxy A03s (SM-A037G)-1767022521.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A03s (SM-A037G)-1767022521.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "MTK",
+    "title": "Samsung, MTK, SM-A037G, SM-A037M, SM-A037F, Galaxy A03s 3",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A03s (SM-A037U)-1767022521.jpg",
+    "local_image_path": "testpoints/images/Galaxy A03s (SM-A037U)-1767022521.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A03s (SM-A037U)-1767022521.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "MTK",
+    "title": "Samsung, MTK, SM-A037G, SM-A037M, SM-A037F, Galaxy A03s 4",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A03s (SM-A037W)-1767022521.jpg",
+    "local_image_path": "testpoints/images/Galaxy A03s (SM-A037W)-1767022521.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A03s (SM-A037W)-1767022521.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "MTK",
+    "title": "Samsung, MTK, SM-A107F, SM-A107M, Galaxy A10s",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A10s (SM-A107M SM-A107F)-1767022915.jpg",
+    "local_image_path": "testpoints/images/Galaxy A10s (SM-A107M SM-A107F)-1767022915.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A10s (SM-A107M SM-A107F)-1767022915.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "MTK",
+    "title": "Samsung, MTK, SM-A125F, SM-A125U, Galaxy A12",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A12 (SM-A125U SM-A125F)-1753780750.jpg",
+    "local_image_path": "testpoints/images/Galaxy A12 (SM-A125U SM-A125F)-1753780750.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A12 (SM-A125U SM-A125F)-1753780750.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "MTK",
+    "title": "Samsung, MTK, SM-A215U, SM-A215U1, SM-A215W, Galaxy A21",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A21 (SM-S215DL)-1767023430.jpg",
+    "local_image_path": "testpoints/images/Galaxy A21 (SM-S215DL)-1767023430.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A21 (SM-S215DL)-1767023430.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "MTK",
+    "title": "Samsung, MTK, SM-A225F, SM-A225M, Galaxy A22, Galaxy A22 5G",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A22 (SM-A225M SM-A225F)-1767022093.jpg",
+    "local_image_path": "testpoints/images/Galaxy A22 (SM-A225M SM-A225F)-1767022093.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A22 (SM-A225M SM-A225F)-1767022093.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "MTK",
+    "title": "Samsung, MTK, SM-A226BR, SM-A226B, Galaxy A22, Galaxy A22 5G",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A22 (SM-A226BR SM-A226B)-1767023494.jpg",
+    "local_image_path": "testpoints/images/Galaxy A22 (SM-A226BR SM-A226B)-1767023494.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A22 (SM-A226BR SM-A226B)-1767023494.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "MTK",
+    "title": "Samsung, MTK, SM-A315F, SM-A315G, SM-A315N, Galaxy A31",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A31 (SM-A315F SM-A315G SM-A315N)-1767022676.jpg",
+    "local_image_path": "testpoints/images/Galaxy A31 (SM-A315F SM-A315G SM-A315N)-1767022676.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A31 (SM-A315F SM-A315G SM-A315N)-1767022676.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "MTK",
+    "title": "Samsung, MTK, SM-A325F, SM-A325M",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A32 (SM-A325F SM-A325M SM-A325N)-1767023636.jpg",
+    "local_image_path": "testpoints/images/Galaxy A32 (SM-A325F SM-A325M SM-A325N)-1767023636.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A32 (SM-A325F SM-A325M SM-A325N)-1767023636.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "MTK",
+    "title": "Samsung, MTK, SM-A415F, Galaxy A41",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A41 (SM-A415F)-1767022233.jpg",
+    "local_image_path": "testpoints/images/Galaxy A41 (SM-A415F)-1767022233.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A41 (SM-A415F)-1767022233.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "MTK",
+    "title": "Samsung, MTK, SM-E225F, Galaxy F22",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy F22 (SM-E225F)-1767022784.jpg",
+    "local_image_path": "testpoints/images/Galaxy F22 (SM-E225F)-1767022784.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy F22 (SM-E225F)-1767022784.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "MTK",
+    "title": "Samsung, MTK, SM-M022F, SM-M022G, Galaxy M02",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy M02 (SM-M022F SM-M022G)-1767022029.jpg",
+    "local_image_path": "testpoints/images/Galaxy M02 (SM-M022F SM-M022G)-1767022029.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy M02 (SM-M022F SM-M022G)-1767022029.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "MTK",
+    "title": "Samsung, MTK, SM-M136B, Galaxy M13 5G",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy M13 5G (SM-M136B)-1767023703.jpg",
+    "local_image_path": "testpoints/images/Galaxy M13 5G (SM-M136B)-1767023703.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy M13 5G (SM-M136B)-1767023703.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "MTK",
+    "title": "Samsung, MTK, SM-M325FV, SM-M325F, Galaxy M32",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy M32 (SM-M325F)-1767023734.jpg",
+    "local_image_path": "testpoints/images/Galaxy M32 (SM-M325F)-1767023734.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy M32 (SM-M325F)-1767023734.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "MTK",
+    "title": "Samsung, MTK, SM-M536B, Galaxy M53 5G",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy M53 5G (SM-M536B)-1767022815.jpg",
+    "local_image_path": "testpoints/images/Galaxy M53 5G (SM-M536B)-1767022815.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy M53 5G (SM-M536B)-1767022815.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy A01, SM-A015F, SM-A015G, SM-A015M",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A01 (SM-A015F SM-A015G SM-A015M)-1753714189.jpg",
+    "local_image_path": "testpoints/images/Galaxy A01 (SM-A015F SM-A015G SM-A015M)-1753714189.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A01 (SM-A015F SM-A015G SM-A015M)-1753714189.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy A02s, SM-A025A",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A02s (SM-A025A)-1753714457.jpg",
+    "local_image_path": "testpoints/images/Galaxy A02s (SM-A025A)-1753714457.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A02s (SM-A025A)-1753714457.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy A11, SM-A115A, SM-A115U",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A11 (SM-A115U SM-A115A)-1753715024.jpg",
+    "local_image_path": "testpoints/images/Galaxy A11 (SM-A115U SM-A115A)-1753715024.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A11 (SM-A115U SM-A115A)-1753715024.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy A11, SM-A115F, SM-A115M",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A11 (SM-A115F SM-A115M)-1753714883.jpg",
+    "local_image_path": "testpoints/images/Galaxy A11 (SM-A115F SM-A115M)-1753714883.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A11 (SM-A115F SM-A115M)-1753714883.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy A20s, SM-A207F, SM-A207M",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A20s (SM-A207F SM-A207M)-1753715192.jpg",
+    "local_image_path": "testpoints/images/Galaxy A20s (SM-A207F SM-A207M)-1753715192.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A20s (SM-A207F SM-A207M)-1753715192.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy A23, SM-A235F, SM-A235M",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A23 (SM-A235F SM-A235M)-1753715381.jpg",
+    "local_image_path": "testpoints/images/Galaxy A23 (SM-A235F SM-A235M)-1753715381.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A23 (SM-A235F SM-A235M)-1753715381.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy A23, SM-A235F, SM-A235N, SM-A235M",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A23 (SM-A235F SM-A235M SM-A235N)-1753715301.jpg",
+    "local_image_path": "testpoints/images/Galaxy A23 (SM-A235F SM-A235M SM-A235N)-1753715301.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A23 (SM-A235F SM-A235M SM-A235N)-1753715301.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy A42 5G, SM-A426B",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A42 5G (SM-A426B)-1753715586.jpg",
+    "local_image_path": "testpoints/images/Galaxy A42 5G (SM-A426B)-1753715586.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A42 5G (SM-A426B)-1753715586.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy A51 5G, SM-A516V",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A51 5G (SM-A516V)-1753715741.jpg",
+    "local_image_path": "testpoints/images/Galaxy A51 5G (SM-A516V)-1753715741.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A51 5G (SM-A516V)-1753715741.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy A52, SM-A525F, SM-A525M, SM-A526B",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A52 (SM-A525F SM-A525M SM-A526B)-1753715804.jpg",
+    "local_image_path": "testpoints/images/Galaxy A52 (SM-A525F SM-A525M SM-A526B)-1753715804.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A52 (SM-A525F SM-A525M SM-A526B)-1753715804.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy A71 5G, SM-A716V",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A71 5G (SM-A716V)-1753715973.jpg",
+    "local_image_path": "testpoints/images/Galaxy A71 5G (SM-A716V)-1753715973.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A71 5G (SM-A716V)-1753715973.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy A71, SM-A715F",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A71 (SM-A715F)-1753715922.jpg",
+    "local_image_path": "testpoints/images/Galaxy A71 (SM-A715F)-1753715922.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A71 (SM-A715F)-1753715922.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy A72, SM-A725F, SM-A725M",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A72 (SM-A725F SM-A725M)-1753716045.jpg",
+    "local_image_path": "testpoints/images/Galaxy A72 (SM-A725F SM-A725M)-1753716045.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A72 (SM-A725F SM-A725M)-1753716045.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy A73 5G, SM-A736B",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A73 5G (SM-A736B)-1753716081.jpg",
+    "local_image_path": "testpoints/images/Galaxy A73 5G (SM-A736B)-1753716081.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A73 5G (SM-A736B)-1753716081.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy F02s, SM-E025F",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy F02s (SM-E025F)-1753716256.jpg",
+    "local_image_path": "testpoints/images/Galaxy F02s (SM-E025F)-1753716256.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy F02s (SM-E025F)-1753716256.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy F23, SM-E236B",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy F23 5G (SM-E236B)-1753801128.jpg",
+    "local_image_path": "testpoints/images/Galaxy F23 5G (SM-E236B)-1753801128.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy F23 5G (SM-E236B)-1753801128.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy Fold, SM-F900F",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Fold (SM-F9000 SM-F900F SM-F900N SM-F900U SM-F900U1 SM-F900W) частково-1753796815.jpg",
+    "local_image_path": "testpoints/images/Galaxy Fold (SM-F9000 SM-F900F SM-F900N SM-F900U SM-F900U1 SM-F900W) частково-1753796815.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Fold (SM-F9000 SM-F900F SM-F900N SM-F900U SM-F900U1 SM-F900W) частково-1753796815.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy M01, SM-M015F, SM-M015G",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy M01 (SM-M015F SM-M015G)-1753716449.jpg",
+    "local_image_path": "testpoints/images/Galaxy M01 (SM-M015F SM-M015G)-1753716449.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy M01 (SM-M015F SM-M015G)-1753716449.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy M11, SM-M115F",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy M11 (SM-M115F)-1753716543.jpg",
+    "local_image_path": "testpoints/images/Galaxy M11 (SM-M115F)-1753716543.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy M11 (SM-M115F)-1753716543.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy M23 5G, SM-M236B, SM-M236L",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy M23 5G (SM-M236L SM-M236B)-1753716588.jpg",
+    "local_image_path": "testpoints/images/Galaxy M23 5G (SM-M236L SM-M236B)-1753716588.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy M23 5G (SM-M236L SM-M236B)-1753716588.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy M51, SM-M515F",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy M51 (SM-M515F)-1753716627.jpg",
+    "local_image_path": "testpoints/images/Galaxy M51 (SM-M515F)-1753716627.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy M51 (SM-M515F)-1753716627.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy M52 5G, SM-M526B",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy M52 5G (SM-M526B)-1753716680.jpg",
+    "local_image_path": "testpoints/images/Galaxy M52 5G (SM-M526B)-1753716680.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy M52 5G (SM-M526B)-1753716680.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy Note9, SM-N960U",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Note 9 (SM-N960U)-1753796167.jpg",
+    "local_image_path": "testpoints/images/Galaxy Note 9 (SM-N960U)-1753796167.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Note 9 (SM-N960U)-1753796167.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy S10 Lite, SM-G770F",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S10 Lite (SM-G770F)-1753790341.jpg",
+    "local_image_path": "testpoints/images/Galaxy S10 Lite (SM-G770F)-1753790341.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S10 Lite (SM-G770F)-1753790341.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy S10+, SM-G975U",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S10 Plus (SM-G975U)-1753800101.jpg",
+    "local_image_path": "testpoints/images/Galaxy S10 Plus (SM-G975U)-1753800101.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S10 Plus (SM-G975U)-1753800101.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy S10e, SM-G970U",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S10e (SM-G970U)-1753790401.jpg",
+    "local_image_path": "testpoints/images/Galaxy S10e (SM-G970U)-1753790401.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S10e (SM-G970U)-1753790401.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy S20 FE, SM-G780G",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S20 FE (SM-G780G)-1753790571.jpg",
+    "local_image_path": "testpoints/images/Galaxy S20 FE (SM-G780G)-1753790571.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S20 FE (SM-G780G)-1753790571.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy S21+ 5G, SM-G9960",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S21 Plus 5G (SM-G9960)-1753800352.jpg",
+    "local_image_path": "testpoints/images/Galaxy S21 Plus 5G (SM-G9960)-1753800352.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S21 Plus 5G (SM-G9960)-1753800352.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy S23, SM-S911U",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S23 5G (SM-S911B SM-S911U SM-S911U1)-1753798833.jpg",
+    "local_image_path": "testpoints/images/Galaxy S23 5G (SM-S911B SM-S911U SM-S911U1)-1753798833.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S23 5G (SM-S911B SM-S911U SM-S911U1)-1753798833.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy S23+, SM-S916B",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S23 Plus 5G (SM-S916B)-1753801422.jpg",
+    "local_image_path": "testpoints/images/Galaxy S23 Plus 5G (SM-S916B)-1753801422.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S23 Plus 5G (SM-S916B)-1753801422.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy S24 Ultra, SM-S928B",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S24 Ultra (SM-S928B)-1753793869.jpg",
+    "local_image_path": "testpoints/images/Galaxy S24 Ultra (SM-S928B)-1753793869.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S24 Ultra (SM-S928B)-1753793869.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy S24 Ultra, SM-S928U",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S24 Ultra (SM-S928W SM-S928U)-1753798533.jpg",
+    "local_image_path": "testpoints/images/Galaxy S24 Ultra (SM-S928W SM-S928U)-1753798533.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S24 Ultra (SM-S928W SM-S928U)-1753798533.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy S24, SM-S921U",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S24 (SM-S921U)-1753793640.jpg",
+    "local_image_path": "testpoints/images/Galaxy S24 (SM-S921U)-1753793640.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S24 (SM-S921U)-1753793640.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy S24+, SM-S926U",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S24 Plus (SM-S926U)-1753800832.jpg",
+    "local_image_path": "testpoints/images/Galaxy S24 Plus (SM-S926U)-1753800832.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S24 Plus (SM-S926U)-1753800832.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy Tab A 8.0 2019, SM-T290",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Tab A 8.0 2019 WiFi (SM-T290)-1753794094.jpg",
+    "local_image_path": "testpoints/images/Galaxy Tab A 8.0 2019 WiFi (SM-T290)-1753794094.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Tab A 8.0 2019 WiFi (SM-T290)-1753794094.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy Tab A 8.0 2019, SM-T295, SM-T297",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Tab A 8.0 2019 (SM-T295 SM-T297)-1753794001.jpg",
+    "local_image_path": "testpoints/images/Galaxy Tab A 8.0 2019 (SM-T295 SM-T297)-1753794001.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Tab A 8.0 2019 (SM-T295 SM-T297)-1753794001.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy Tab S6 Lite, SM-P613F, SM-P619",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Tab S6 Lite 2022 (SM-P619 SM-P613)-1753794724.jpg",
+    "local_image_path": "testpoints/images/Galaxy Tab S6 Lite 2022 (SM-P619 SM-P613)-1753794724.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Tab S6 Lite 2022 (SM-P619 SM-P613)-1753794724.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy Tab S7+, SM-T970",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Tab S7+ WiFi (SM-T970) 1-1753800955.jpg",
+    "local_image_path": "testpoints/images/Galaxy Tab S7+ WiFi (SM-T970) 1-1753800955.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Tab S7+ WiFi (SM-T970) 1-1753800955.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy Z Flip3 5G, SM-F711B",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Z Flip 3 5G (SM-F711B)-1753799136.jpg",
+    "local_image_path": "testpoints/images/Galaxy Z Flip 3 5G (SM-F711B)-1753799136.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Z Flip 3 5G (SM-F711B)-1753799136.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy Z Fold2 5G, SM-F916B",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Z Fold 2 5G (SM-F916B)-1753799316.jpg",
+    "local_image_path": "testpoints/images/Galaxy Z Fold 2 5G (SM-F916B)-1753799316.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Z Fold 2 5G (SM-F916B)-1753799316.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy Z Fold3 5G, SM-F926B",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Z Fold 3 5G (SM-F926B)-1753799466.jpg",
+    "local_image_path": "testpoints/images/Galaxy Z Fold 3 5G (SM-F926B)-1753799466.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Z Fold 3 5G (SM-F926B)-1753799466.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Galaxy Z Fold5, SM-F946B",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Z Fold 5 5G (SM-F946B)-1753799578.jpg",
+    "local_image_path": "testpoints/images/Galaxy Z Fold 5 5G (SM-F946B)-1753799578.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Z Fold 5 5G (SM-F946B)-1753799578.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, Note10+ 5G, SM-N976U",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Note 10 Plus 5G (SM-N976U)-1753800050.jpg",
+    "local_image_path": "testpoints/images/Galaxy Note 10 Plus 5G (SM-N976U)-1753800050.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Note 10 Plus 5G (SM-N976U)-1753800050.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-A025F, SM-A025M, Galaxy A02s",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A02s (SM-A025F SM-A025M)-1753714386.jpg",
+    "local_image_path": "testpoints/images/Galaxy A02s (SM-A025F SM-A025M)-1753714386.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A02s (SM-A025F SM-A025M)-1753714386.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-A025G, Galaxy A02s, SM-A025U",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A02s (SM-A025G SM-A025U)-1753714709.jpg",
+    "local_image_path": "testpoints/images/Galaxy A02s (SM-A025G SM-A025U)-1753714709.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A02s (SM-A025G SM-A025U)-1753714709.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-A057F, Galaxy A05s, SM-A057M, SM-A057G",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A05s (SM-A057F SM-A057G SM-A057M)-1753714783.jpg",
+    "local_image_path": "testpoints/images/Galaxy A05s (SM-A057F SM-A057G SM-A057M)-1753714783.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A05s (SM-A057F SM-A057G SM-A057M)-1753714783.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-A236E, Galaxy A23 5G, SM-A236U, SM-A236B, SM-A236M, SM-A236V",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A23 5G (SM-A236M SM-A236B SM-A236E SM-A236V SM-A236VL SM-A236U SM-A236U1)-1753715539.jpg",
+    "local_image_path": "testpoints/images/Galaxy A23 5G (SM-A236M SM-A236B SM-A236E SM-A236V SM-A236VL SM-A236U SM-A236U1)-1753715539.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A23 5G (SM-A236M SM-A236B SM-A236E SM-A236V SM-A236VL SM-A236U SM-A236U1)-1753715539.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-A4260, Galaxy A42 5G, SM-A426U",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A42 5G (SM-A426U SM-A4260)-1753715696.jpg",
+    "local_image_path": "testpoints/images/Galaxy A42 5G (SM-A426U SM-A4260)-1753715696.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A42 5G (SM-A426U SM-A4260)-1753715696.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-A526U, Galaxy A52s 5G, SM-A528B",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A52s 5G (SM-A528B SM-A526W SM-A526U1 частково нема)-1753796689.jpg",
+    "local_image_path": "testpoints/images/Galaxy A52s 5G (SM-A528B SM-A526W SM-A526U1 частково нема)-1753796689.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A52s 5G (SM-A528B SM-A526W SM-A526U1 частково нема)-1753796689.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-A8050, SM-A805N, Galaxy A80, SM-A805F",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A80 2019 (SM-A805F SM-A8050 SM-A805N)-1753716141.jpg",
+    "local_image_path": "testpoints/images/Galaxy A80 2019 (SM-A805F SM-A8050 SM-A805N)-1753716141.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A80 2019 (SM-A805F SM-A8050 SM-A805N)-1753716141.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-A9080, SM-A908N, Galaxy A90 5G, SM-A908B",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy A90 5G (SM-A908B SM-A908N SM-A9080)-1753716206.jpg",
+    "local_image_path": "testpoints/images/Galaxy A90 5G (SM-A908B SM-A908N SM-A9080)-1753716206.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy A90 5G (SM-A908B SM-A908N SM-A9080)-1753716206.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-F721B, Galaxy Z Flip4, SM-F721N",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Z Flip 4 5G (SM-F721B SM-F721N)-1753799221.jpg",
+    "local_image_path": "testpoints/images/Galaxy Z Flip 4 5G (SM-F721B SM-F721N)-1753799221.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Z Flip 4 5G (SM-F721B SM-F721N)-1753799221.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-F936B, Galaxy Z Fold4 5G",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Z Fold 4 5G (SM-F936B)-1753799520.jpg",
+    "local_image_path": "testpoints/images/Galaxy Z Fold 4 5G (SM-F936B)-1753799520.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Z Fold 4 5G (SM-F936B)-1753799520.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-F946U, Galaxy Fold 5G",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Z Fold 5 5G (SM-F946U SM-F946U1)-1753799656.jpg",
+    "local_image_path": "testpoints/images/Galaxy Z Fold 5 5G (SM-F946U SM-F946U1)-1753799656.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Z Fold 5 5G (SM-F946U SM-F946U1)-1753799656.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-F956B, Galaxy Z Fold6",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Z Fold 6 5G (SM-F956B)-1753796457.jpg",
+    "local_image_path": "testpoints/images/Galaxy Z Fold 6 5G (SM-F956B)-1753796457.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Z Fold 6 5G (SM-F956B)-1753796457.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-G960U, Galaxy S9",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S9 (SM-G960U)-1753716869.jpg",
+    "local_image_path": "testpoints/images/Galaxy S9 (SM-G960U)-1753716869.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S9 (SM-G960U)-1753716869.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-G981U1, SM-G981U, Galaxy S20 5G, SM-G981N",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S20 5G (SM-G981N SM-G981U1 SM-G981U )-1753790479.jpg",
+    "local_image_path": "testpoints/images/Galaxy S20 5G (SM-G981N SM-G981U1 SM-G981U )-1753790479.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S20 5G (SM-G981N SM-G981U1 SM-G981U )-1753790479.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-G981V, Galaxy S20 5G",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S20 5G (SM-G981V)-1753790519.jpg",
+    "local_image_path": "testpoints/images/Galaxy S20 5G (SM-G981V)-1753790519.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S20 5G (SM-G981V)-1753790519.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-G986U1, Galaxy S20+ 5G",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S20 Plus 5G (SM-G986U1)-1753800213.jpg",
+    "local_image_path": "testpoints/images/Galaxy S20 Plus 5G (SM-G986U1)-1753800213.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S20 Plus 5G (SM-G986U1)-1753800213.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-G988U, Galaxy S20 Ultra 5G",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S20 Ultra 5G (SM-G988U)-1753790960.jpg",
+    "local_image_path": "testpoints/images/Galaxy S20 Ultra 5G (SM-G988U)-1753790960.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S20 Ultra 5G (SM-G988U)-1753790960.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-G9900, Galaxy S21 FE 5G",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/FrameGalaxy S21 FE 5G (SM-G9900) 94-1753714008.jpg",
+    "local_image_path": "testpoints/images/FrameGalaxy S21 FE 5G (SM-G9900) 94-1753714008.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/FrameGalaxy S21 FE 5G (SM-G9900) 94-1753714008.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-G990B, SM-G990B2, Galaxy S21 FE 5G",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S21 FE 5G (SM-G990B SM-G990E SM-G990B2)-1753791092.jpg",
+    "local_image_path": "testpoints/images/Galaxy S21 FE 5G (SM-G990B SM-G990E SM-G990B2)-1753791092.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S21 FE 5G (SM-G990B SM-G990E SM-G990B2)-1753791092.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-G991U, Galaxy S21 5G",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S21 5G (SM-G991U SM-G991W SM-G991U1)-1753798426.jpg",
+    "local_image_path": "testpoints/images/Galaxy S21 5G (SM-G991U SM-G991W SM-G991U1)-1753798426.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S21 5G (SM-G991U SM-G991W SM-G991U1)-1753798426.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-G996U, Galaxy S21+ 5G",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S21 Plus 5G (SM-G996U)-1753800278.jpg",
+    "local_image_path": "testpoints/images/Galaxy S21 Plus 5G (SM-G996U)-1753800278.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S21 Plus 5G (SM-G996U)-1753800278.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-G998U, Galaxy S21 Ultra 5G",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S21 Ultra 5G (SM-G998U SM-G998U1)-1753798222.jpg",
+    "local_image_path": "testpoints/images/Galaxy S21 Ultra 5G (SM-G998U SM-G998U1)-1753798222.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S21 Ultra 5G (SM-G998U SM-G998U1)-1753798222.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-M556B, Galaxy M55 5G",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy M55 5G (SM-M556B)-1753716724.jpg",
+    "local_image_path": "testpoints/images/Galaxy M55 5G (SM-M556B)-1753716724.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy M55 5G (SM-M556B)-1753716724.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-N970U1, Galaxy Note10",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Note 10 (SM-N970U SM-N970U1)-1753796889.jpg",
+    "local_image_path": "testpoints/images/Galaxy Note 10 (SM-N970U SM-N970U1)-1753796889.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Note 10 (SM-N970U SM-N970U1)-1753796889.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-N9750, Galaxy Note10+",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Note 10 Plus (SM-N9750)-1753799976.jpg",
+    "local_image_path": "testpoints/images/Galaxy Note 10 Plus (SM-N9750)-1753799976.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Note 10 Plus (SM-N9750)-1753799976.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-N975U1, Galaxy Note10+, SM-N975U",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Note 10 Plus (SM-N975U SM-N975U1)-1753799911.jpg",
+    "local_image_path": "testpoints/images/Galaxy Note 10 Plus (SM-N975U SM-N975U1)-1753799911.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Note 10 Plus (SM-N975U SM-N975U1)-1753799911.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-N981B, Galaxy Note20 5G",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Note 20 5G (SM-N981B)-1753797015.jpg",
+    "local_image_path": "testpoints/images/Galaxy Note 20 5G (SM-N981B)-1753797015.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Note 20 5G (SM-N981B)-1753797015.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-N981B, Galaxy Note20 5G - 1",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Note 20 5G (SM-N981B)-1-1753797066.jpg",
+    "local_image_path": "testpoints/images/Galaxy Note 20 5G (SM-N981B)-1-1753797066.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Note 20 5G (SM-N981B)-1-1753797066.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-N986B, Note 20 Ultra 5G",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Note 20 Ultra 5G (SM-N986B)-1753796563.jpg",
+    "local_image_path": "testpoints/images/Galaxy Note 20 Ultra 5G (SM-N986B)-1753796563.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Note 20 Ultra 5G (SM-N986B)-1753796563.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-S9010, SM-S901U, SM-S901U1, SM-S901E, Galaxy S22 5G",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S22 5G (SM-S9010 SM-S901E SM-S901U SM-S901U1)-1753793308.jpg",
+    "local_image_path": "testpoints/images/Galaxy S22 5G (SM-S9010 SM-S901E SM-S901U SM-S901U1)-1753793308.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S22 5G (SM-S9010 SM-S901E SM-S901U SM-S901U1)-1753793308.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-S906E, SM-S906U, SM-S906U1, SM-S906W, Galaxy S22+",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S22 Plus 5G (SM-S906E SM-S906U SM-S906U1 SM-S906W)-1753801319.jpg",
+    "local_image_path": "testpoints/images/Galaxy S22 Plus 5G (SM-S906E SM-S906U SM-S906U1 SM-S906W)-1753801319.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S22 Plus 5G (SM-S906E SM-S906U SM-S906U1 SM-S906W)-1753801319.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-S908E, SM-S908U, Galaxy S22 Ultra 5G",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S22 Ultra 5G (SM-S908E SM-S908U)-1753798751.jpg",
+    "local_image_path": "testpoints/images/Galaxy S22 Ultra 5G (SM-S908E SM-S908U)-1753798751.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S22 Ultra 5G (SM-S908E SM-S908U)-1753798751.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-S918B, SM-S918N, SM-S918U, Galaxy S23 Ultra 5G",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy S23 Ultra 5G (SM-S918B SM-S918N SM-S918U)-1753798931.jpg",
+    "local_image_path": "testpoints/images/Galaxy S23 Ultra 5G (SM-S918B SM-S918N SM-S918U)-1753798931.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy S23 Ultra 5G (SM-S918B SM-S918N SM-S918U)-1753798931.jpg"
+  },
+  {
+    "brand": "Vivo",
+    "platform": "MTK",
+    "title": "Vivo, MTK, V21",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Vivo V21 5G (V2050)-1753782576.jpg",
+    "local_image_path": "testpoints/images/Vivo V21 5G (V2050)-1753782576.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Vivo V21 5G (V2050)-1753782576.jpg"
+  },
+  {
+    "brand": "Vivo",
+    "platform": "MTK",
+    "title": "Vivo, MTK, Y12s",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Vivo Y12s (v2026)-1753782609.jpg",
+    "local_image_path": "testpoints/images/Vivo Y12s (v2026)-1753782609.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Vivo Y12s (v2026)-1753782609.jpg"
+  },
+  {
+    "brand": "Vivo",
+    "platform": "MTK",
+    "title": "Vivo, MTK, Y93",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Vivo Y93 (1814)-1753782640.jpg",
+    "local_image_path": "testpoints/images/Vivo Y93 (1814)-1753782640.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Vivo Y93 (1814)-1753782640.jpg"
+  },
+  {
+    "brand": "Vivo",
+    "platform": "MTK",
+    "title": "Vivo, MTK, Z3i",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Vivo Z3i (PD1813c)-1753782542.jpg",
+    "local_image_path": "testpoints/images/Vivo Z3i (PD1813c)-1753782542.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Vivo Z3i (PD1813c)-1753782542.jpg"
+  },
+  {
+    "brand": "Vivo",
+    "platform": "Qualcomm",
+    "title": "Vivo, Qualcomm, V15 Pro",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Vivo V15 Pro (1818)-1753781896.jpg",
+    "local_image_path": "testpoints/images/Vivo V15 Pro (1818)-1753781896.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Vivo V15 Pro (1818)-1753781896.jpg"
+  },
+  {
+    "brand": "Vivo",
+    "platform": "Qualcomm",
+    "title": "Vivo, Qualcomm, V9 (PD1730F)",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Vivo V9 (PD1730)-1753781946.jpg",
+    "local_image_path": "testpoints/images/Vivo V9 (PD1730)-1753781946.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Vivo V9 (PD1730)-1753781946.jpg"
+  },
+  {
+    "brand": "Vivo",
+    "platform": "Qualcomm",
+    "title": "Vivo, Qualcomm, X9",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Vivo X9 (PD1616)-1753782411.jpg",
+    "local_image_path": "testpoints/images/Vivo X9 (PD1616)-1753782411.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Vivo X9 (PD1616)-1753782411.jpg"
+  },
+  {
+    "brand": "Vivo",
+    "platform": "Qualcomm",
+    "title": "Vivo, Qualcomm, Y20a (PD2060F)",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Vivo Y20A (V2034)-1753782357.jpg",
+    "local_image_path": "testpoints/images/Vivo Y20A (V2034)-1753782357.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Vivo Y20A (V2034)-1753782357.jpg"
+  },
+  {
+    "brand": "Vivo",
+    "platform": "Qualcomm",
+    "title": "Vivo, Qualcomm, Y50",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Vivo Y50 (1935N)-1753782320.jpg",
+    "local_image_path": "testpoints/images/Vivo Y50 (1935N)-1753782320.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Vivo Y50 (1935N)-1753782320.jpg"
+  },
+  {
+    "brand": "Vivo",
+    "platform": "Qualcomm",
+    "title": "Vivo, Qualcomm, Y53",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Vivo Y53 (PD1628)-1753782279.jpg",
+    "local_image_path": "testpoints/images/Vivo Y53 (PD1628)-1753782279.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Vivo Y53 (PD1628)-1753782279.jpg"
+  },
+  {
+    "brand": "Vivo",
+    "platform": "Qualcomm",
+    "title": "Vivo, Qualcomm, Y55",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Vivo Y55 (PD1613)-1753782247.jpg",
+    "local_image_path": "testpoints/images/Vivo Y55 (PD1613)-1753782247.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Vivo Y55 (PD1613)-1753782247.jpg"
+  },
+  {
+    "brand": "Vivo",
+    "platform": "Qualcomm",
+    "title": "Vivo, Qualcomm, Y71",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Vivo Y71 (PD1731)-1753782148.jpg",
+    "local_image_path": "testpoints/images/Vivo Y71 (PD1731)-1753782148.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Vivo Y71 (PD1731)-1753782148.jpg"
+  },
+  {
+    "brand": "Vivo",
+    "platform": "Qualcomm",
+    "title": "Vivo, Qualcomm, Y85",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Vivo Y85-1753782067.jpg",
+    "local_image_path": "testpoints/images/Vivo Y85-1753782067.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Vivo Y85-1753782067.jpg"
+  },
+  {
+    "brand": "Vivo",
+    "platform": "Qualcomm",
+    "title": "Vivo, Qualcomm, Y91",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Vivo Y91 (1818)-1753782101.jpg",
+    "local_image_path": "testpoints/images/Vivo Y91 (1818)-1753782101.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Vivo Y91 (1818)-1753782101.jpg"
+  }
+]
