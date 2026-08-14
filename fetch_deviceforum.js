@@ -85,6 +85,16 @@
  *     a full run is thousands of images.
  *   - Local filenames are "<id>_<sanitized original filename>" so they
  *     stay human-readable AND collision-free (id is always unique).
+ *   - Images are sharded into subfolders of 1000 ids each (e.g.
+ *     "images/0000-0999/", "images/1000-1999/", ...) so no single
+ *     directory ever holds more than ~1000 files. This keeps the repo
+ *     browsable on GitHub, whose file browser truncates directory
+ *     listings at 1,000 entries — with 7,000+ images in one flat
+ *     "images/" folder, over 80% of files became invisible in the UI
+ *     (though still present in git). Sharding is purely a directory
+ *     layout choice: filenameForItem() returns "<shard>/<id>_<name>",
+ *     the manifest stores that full relative path, and everything
+ *     downstream (RSS, published_image_url) just uses that path as-is.
  *
  * A FULL RUN IS BIG — BE POLITE
  * ---------------------------------------------------------------------
@@ -240,11 +250,31 @@ function downloadFile(url, destPath) {
   });
 }
 
-/** Local filename: "<id>_<sanitized original filename>", always unique. */
+/**
+ * Shard folder for a given numeric media id, grouping ids in blocks of
+ * 1000 so no single directory exceeds ~1000 files, e.g.:
+ *   id 42     -> "0000-0999"
+ *   id 1234   -> "1000-1999"
+ *   id 90501  -> "90000-90999"
+ * Non-numeric / unparsable ids fall back to an "other" bucket.
+ */
+function shardForId(id) {
+  const n = parseInt(id, 10);
+  if (!Number.isFinite(n) || n < 0) return "other";
+  const start = Math.floor(n / 1000) * 1000;
+  return `${String(start).padStart(4, "0")}-${String(start + 999).padStart(4, "0")}`;
+}
+
+/**
+ * Local relative path (inside images/): "<shard>/<id>_<sanitized original
+ * filename>". The shard prefix keeps any single directory well under
+ * GitHub's 1,000-file listing cap; the "<id>_" prefix keeps filenames
+ * unique within a shard (id is always unique).
+ */
 function filenameForItem(item) {
   let base = sanitizeFilename(item.title || `media_${item.id}`);
   if (!/\.(jpe?g|png|webp|gif|bmp)$/i.test(base)) base += ".jpg";
-  return `${item.id}_${base}`;
+  return path.join(shardForId(item.id), `${item.id}_${base}`);
 }
 
 /**
@@ -514,6 +544,7 @@ async function main() {
       }
 
       try {
+        fs.mkdirSync(path.dirname(dest), { recursive: true });
         await downloadFile(url, dest);
         manifest.set(url, relPath);
         downloaded++;
