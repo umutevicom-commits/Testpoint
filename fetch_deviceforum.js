@@ -206,9 +206,11 @@ function downloadFile(url, destination) {
 function sanitizeFilename(value) {
   return String(value || "image")
     .replace(/[\\/:*?"<>|]+/g, "_")
-    .replace(/\s+/g, " ")
+    .replace(/\s+/g, "_")
+    .replace(/_+/g, "_")
+    .replace(/^_+|_+$/g, "")
     .trim()
-    .slice(0, 180);
+    .slice(0, 180) || "image";
 }
 
 function shardForId(id) {
@@ -500,7 +502,16 @@ async function main() {
       if (!relativePath) continue;
       const posixPath = relativePath.split(path.sep).join("/");
       item.local_image_path = `deviceforum/${posixPath}`;
-      if (baseUrl) item.published_image_url = [baseUrl, pagesPrefix, item.local_image_path].filter(Boolean).join("/");
+      if (baseUrl) {
+        // FIX: dosya adları artık boşluksuz olsa da, olası diğer özel/unicode
+        // karakterlere karşı ekstra güvenlik için her path segmentini ayrı
+        // ayrı encode ediyoruz; böylece yayınlanan URL her zaman geçerli olur.
+        const encodedPath = item.local_image_path
+          .split("/")
+          .map(encodeURIComponent)
+          .join("/");
+        item.published_image_url = [baseUrl, pagesPrefix, encodedPath].filter(Boolean).join("/");
+      }
     }
     console.log(`Images: ${downloaded} downloaded, ${skipped} skipped, ${failed} failed.`);
   }
