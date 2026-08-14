@@ -24,11 +24,12 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    # Full-archive run: every brand, every platform tab, every image,
-    # downloaded fresh each time. This is NOT incremental/batched like
-    # the old ROM scraper was — with thousands of testpoint images this
-    # can take a while, so the timeout is generous.
-    timeout-minutes: 340
+    # Full-archive run across all three sources: every brand/platform/
+    # category, every image. This is NOT incremental/batched — with
+    # device-forum.com alone adding 7,000+ images on top of the other two
+    # sites, a full run can take a long time, so the timeout is generous
+    # (close to GitHub Actions' hard per-job ceiling).
+    timeout-minutes: 355
 
     steps:
       - name: Checkout repo
@@ -44,11 +45,12 @@ jobs:
       - name: Install dependencies (Puppeteer + Chromium, cheerio)
         run: npm install
 
-      # Both scrapers are told to download images locally AND to publish
-      # RSS links pointing at THIS repo's GitHub Pages site (not the
-      # original sigmakey.com / miuirom.org URLs) — see the "PUBLISHING
-      # IMAGES FROM GITHUB PAGES" note in fetch_edlpoint.js / the matching
-      # comment in fetch_testpoints.js for how --base-url is used.
+      # All three scrapers are told to download images locally AND to
+      # publish RSS links pointing at THIS repo's GitHub Pages site (not
+      # the original sigmakey.com / miuirom.org / device-forum.com URLs) —
+      # see the "PUBLISHING IMAGES FROM GITHUB PAGES" note in
+      # fetch_edlpoint.js / the matching comments in fetch_testpoints.js
+      # and fetch_deviceforum.js for how --base-url is used.
       - name: Compute GitHub Pages base URL
         id: pages_url
         run: |
@@ -74,6 +76,12 @@ jobs:
         run: |
           echo "Scraping miuirom.org EDL Point archive (Xiaomi/REDMI/POCO, every image)"
           node fetch_edlpoint.js --out-dir ./feed --download-images \
+            --base-url "${{ steps.pages_url.outputs.base_url }}"
+
+      - name: Run Device Forum media gallery scraper (device-forum.com, full archive, with images)
+        run: |
+          echo "Scraping device-forum.com media gallery (all categories, every page, every image)"
+          node fetch_deviceforum.js --out-dir ./feed --download-images \
             --base-url "${{ steps.pages_url.outputs.base_url }}"
 
       - name: Commit & push changes
