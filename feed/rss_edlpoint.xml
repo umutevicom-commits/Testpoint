@@ -1,0 +1,1369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>fetch_edlpoint.js</generator>
+    <title>EDL Point / Test Point Archive - Xiaomi, Mi, REDMI, POCO</title>
+    <link>https://miuirom.org/updates/edl-point</link>
+    <description>EDL (Emergency Download) test point images for Xiaomi, Mi, REDMI, and POCO devices, from miuirom.org.</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 14 Aug 2026 12:14:48 GMT</lastBuildDate>
+    <item>
+      <title>Mi 4i EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-4i-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-4i-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: ferrari
+        <br/>Model(s): 2015015
+        <br/>Firmware page: https://miuirom.org/phones/mi-4i
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-4i-edl-point.jpg" alt="Mi 4i EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-4i-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi 4c EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-4c-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-4c-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: libra
+        <br/>Model(s): 2015561, 2015562
+        <br/>Firmware page: https://miuirom.org/phones/mi-4c
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-4c-edl-point.jpg" alt="Mi 4c EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-4c-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi 4S EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-4s-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-4s-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: aqua
+        <br/>Model(s): 2015911
+        <br/>Firmware page: https://miuirom.org/phones/mi-4s
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-4s-edl-point.jpg" alt="Mi 4S EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-4s-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi 5 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-5-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-5-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: gemini
+        <br/>Model(s): 2015105, 2015201, 2015628
+        <br/>Firmware page: https://miuirom.org/phones/mi-5
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-5-edl-point.jpg" alt="Mi 5 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-5-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi 5S EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-5s-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-5s-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: capricorn
+        <br/>Model(s): 2015711
+        <br/>Firmware page: https://miuirom.org/phones/mi-5s
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-5s-edl-point.jpg" alt="Mi 5S EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-5s-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi 6 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-6-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-6-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: sagit
+        <br/>Model(s): MCE16, MCT1
+        <br/>Firmware page: https://miuirom.org/phones/mi-6
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-6-edl-point.jpg" alt="Mi 6 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-6-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi 6X EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-6x-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-6x-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: wayne
+        <br/>Model(s): M1804D2SC, M1804D2SE, M1804D2ST
+        <br/>Firmware page: https://miuirom.org/phones/mi-6x
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-6x-edl-point.jpg" alt="Mi 6X EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-6x-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi 8 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-8-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-8-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: dipper
+        <br/>Model(s): M1803E1A, M1803E1C, M1803E1T
+        <br/>Firmware page: https://miuirom.org/phones/mi-8
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-8-edl-point.jpg" alt="Mi 8 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-8-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi 8 Pro EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-8-pro-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-8-pro-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: equuleus
+        <br/>Model(s): M1807E8A
+        <br/>Firmware page: https://miuirom.org/phones/mi-8-pro
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-8-pro-edl-point.jpg" alt="Mi 8 Pro EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-8-pro-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi 8 SE EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-8-se-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-8-se-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: sirius
+        <br/>Model(s): M1805E2A
+        <br/>Firmware page: https://miuirom.org/phones/mi-8-se
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-8-se-edl-point.jpg" alt="Mi 8 SE EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-8-se-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi 8 Lite EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-8-lite-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-8-lite-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: platina
+        <br/>Model(s): M1808D2TG, M1808D2TE, M1808D2TT, M1808D2TC
+        <br/>Firmware page: https://miuirom.org/phones/mi-8-lite
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-8-lite-edl-point.jpg" alt="Mi 8 Lite EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-8-lite-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi 9 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-9-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-9-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: cepheus
+        <br/>Model(s): M1902F1G, M1902F1A, M1902F1T, M1902F1C
+        <br/>Firmware page: https://miuirom.org/phones/mi-9
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-9-edl-point.jpg" alt="Mi 9 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-9-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi 9 SE EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-9-se-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-9-se-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: grus
+        <br/>Model(s): M1903F2G, M1903F2A
+        <br/>Firmware page: https://miuirom.org/phones/mi-9-se
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-9-se-edl-point.jpg" alt="Mi 9 SE EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-9-se-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi 9T EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-9t-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-9t-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: davinci
+        <br/>Model(s): M1903F10G
+        <br/>Firmware page: https://miuirom.org/phones/mi-9t
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-9t-edl-point.jpg" alt="Mi 9T EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-9t-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi 9T Pro EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-9t-pro-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-9t-pro-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: raphael
+        <br/>Model(s): M1903F11G
+        <br/>Firmware page: https://miuirom.org/phones/mi-9t-pro
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-9t-pro-edl-point.jpg" alt="Mi 9T Pro EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-9t-pro-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi 9 Lite EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-9-lite-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-9-lite-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: pyxis
+        <br/>Model(s): M1904F3BG
+        <br/>Firmware page: https://miuirom.org/phones/mi-9-lite
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-9-lite-edl-point.jpg" alt="Mi 9 Lite EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-9-lite-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi 10 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-10-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-10-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: umi
+        <br/>Model(s): M2001J2G, M2001J2I, M2001J2E, M2001J2C
+        <br/>Firmware page: https://miuirom.org/phones/mi-10
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-10-edl-point.jpg" alt="Mi 10 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-10-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi 10 Pro EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-10-pro-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-10-pro-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: cmi
+        <br/>Model(s): M2001J1G, M2001J1E, M2001J1C
+        <br/>Firmware page: https://miuirom.org/phones/mi-10-pro
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-10-pro-edl-point.jpg" alt="Mi 10 Pro EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-10-pro-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi 10 Lite Zoom EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-10-lite-zoom-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-10-lite-zoom-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: vangogh
+        <br/>Model(s): M2002J9E
+        <br/>Firmware page: https://miuirom.org/phones/mi-10-lite-zoom
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-10-lite-zoom-edl-point.jpg" alt="Mi 10 Lite Zoom EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-10-lite-zoom-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi 10 Ultra EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-10-ultra-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-10-ultra-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: cas
+        <br/>Model(s): M2007J1SC
+        <br/>Firmware page: https://miuirom.org/phones/mi-10-ultra
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-10-ultra-edl-point.jpg" alt="Mi 10 Ultra EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-10-ultra-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi 10T / Mi 10T Pro EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-10t-10pro-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-10t-10pro-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: apollo
+        <br/>Model(s): M2007J3SY, M2007J3SP, M2007J3SG, M2007J3SI
+        <br/>Firmware page: https://miuirom.org/phones/mi-10t-and-mi-10t-pro
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-10t-10pro-edl-point.jpg" alt="Mi 10T / Mi 10T Pro EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-10t-10pro-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi 11 Lite 5G EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-11-lite-5g-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-11-lite-5g-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: renoir
+        <br/>Model(s): M2101K9G, M2101K9C, M2101K9R
+        <br/>Firmware page: https://miuirom.org/phones/mi-11-lite-5g
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-11-lite-5g-edl-point.jpg" alt="Mi 11 Lite 5G EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-11-lite-5g-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi 11 Lite 4G EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-11-lite-4g-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-11-lite-4g-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: courbet
+        <br/>Model(s): M2101K9AG, M2101K9AI
+        <br/>Firmware page: https://miuirom.org/phones/mi-11-lite-4g
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-11-lite-4g-edl-point.jpg" alt="Mi 11 Lite 4G EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-11-lite-4g-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi Note Pro EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-note-pro-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-note-pro-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: leo
+        <br/>Model(s): 2015021, 2015022, 2015501
+        <br/>Firmware page: https://miuirom.org/phones/mi-note-pro
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-note-pro-edl-point.jpg" alt="Mi Note Pro EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-note-pro-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi Note 2 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-note-2-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-note-2-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: scorpio
+        <br/>Model(s): 2015213, 2015211, 2015212
+        <br/>Firmware page: https://miuirom.org/phones/mi-note-2
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-note-2-edl-point.jpg" alt="Mi Note 2 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-note-2-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi Note 3 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-note-3-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-note-3-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: jason
+        <br/>Model(s): MCE8, MCT8
+        <br/>Firmware page: https://miuirom.org/phones/mi-note-3
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-note-3-edl-point.jpg" alt="Mi Note 3 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-note-3-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi Note 10 / Note 10 Pro EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-note-10-pro-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-note-10-pro-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: tucana
+        <br/>Model(s): M1910F4G, M1910F4S
+        <br/>Firmware page: https://miuirom.org/phones/mi-note-10-and-note-10-pro
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-note-10-pro-edl-point.jpg" alt="Mi Note 10 / Note 10 Pro EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-note-10-pro-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi MIX 2 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-mix-2-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-mix-2-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: chiron
+        <br/>Model(s): MDE5, MDE5S, MDT5
+        <br/>Firmware page: https://miuirom.org/phones/mi-mix-2
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-mix-2-edl-point.jpg" alt="Mi MIX 2 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-mix-2-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi MIX 2S EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-mix-2s-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-mix-2s-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: polaris
+        <br/>Model(s): M1803D5XA, M1803D5XE, M1803D5XT, M1803D5XC
+        <br/>Firmware page: https://miuirom.org/phones/mi-mix-2s
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-mix-2s-edl-point.jpg" alt="Mi MIX 2S EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-mix-2s-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi MIX 3 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-mix-3-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-mix-3-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: perseus
+        <br/>Model(s): M1810E5A, M1810E5E
+        <br/>Firmware page: https://miuirom.org/phones/mi-mix-3
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-mix-3-edl-point.jpg" alt="Mi MIX 3 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-mix-3-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi Max EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-max-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-max-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: hydrogen
+        <br/>Model(s): 2016002, 2016001
+        <br/>Firmware page: https://miuirom.org/phones/mi-max
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-max-edl-point.jpg" alt="Mi Max EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-max-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi Max 2 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-max-2-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-max-2-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: oxygen
+        <br/>Model(s): MDE40, MDT4, MDI40
+        <br/>Firmware page: https://miuirom.org/phones/mi-max-2
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-max-2-edl-point.jpg" alt="Mi Max 2 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-max-2-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi Max 3 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-max-3-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-max-3-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: nitrogen
+        <br/>Model(s): M1804E4A, M1804E4C, M1804E4T
+        <br/>Firmware page: https://miuirom.org/phones/mi-max-3
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-max-3-edl-point.jpg" alt="Mi Max 3 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-max-3-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi CC 9 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-cc-9-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-cc-9-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: pyxis
+        <br/>Model(s): M1904F3BC
+        <br/>Firmware page: https://miuirom.org/phones/mi-cc-9
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-cc-9-edl-point.jpg" alt="Mi CC 9 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-cc-9-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi CC 9e EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-cc-9e-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-cc-9e-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: laurus
+        <br/>Model(s): M1906F9SC
+        <br/>Firmware page: https://miuirom.org/phones/mi-cc-9e
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-cc-9e-edl-point.jpg" alt="Mi CC 9e EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-cc-9e-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi A1 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-a1-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-a1-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: tissot
+        <br/>Model(s): MDG2, MDI2
+        <br/>Firmware page: https://miuirom.org/phones/mi-a1
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-a1-edl-point.jpg" alt="Mi A1 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-a1-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi A2 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-a2-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-a2-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: jasmine
+        <br/>Model(s): 1804D2SG, M1804D2SI
+        <br/>Firmware page: https://miuirom.org/phones/mi-a2
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-a2-edl-point.jpg" alt="Mi A2 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-a2-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi A2 Lite EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-a2-lite-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-a2-lite-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: daisy
+        <br/>Model(s): M1805D1SG
+        <br/>Firmware page: https://miuirom.org/phones/mi-a2-lite
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-a2-lite-edl-point.jpg" alt="Mi A2 Lite EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-a2-lite-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi A3 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-a3-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-a3-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: laurel
+        <br/>Model(s): M1906F9SH, M1906F9SI
+        <br/>Firmware page: https://miuirom.org/phones/mi-a3
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-a3-edl-point.jpg" alt="Mi A3 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-a3-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi 3 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-3-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-3-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: cancro
+        <br/>Model(s): 2013062, 2013063
+        <br/>Firmware page: https://miuirom.org/phones/mi-3
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-3-edl-point.jpg" alt="Mi 3 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-3-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mi 4 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-4-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-4-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: cancro
+        <br/>Model(s): 2014215, 2014218, 2014216, 2014719
+        <br/>Firmware page: https://miuirom.org/phones/mi-4
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-4-edl-point.jpg" alt="Mi 4 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-mi-4-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Xiaomi 12 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-12-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-12-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: Xiaomi
+        <br/>Codename: cupid
+        <br/>Model(s): 2201123G, 2201123C
+        <br/>Firmware page: https://miuirom.org/phones/xiaomi-12
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-12-edl-point.jpg" alt="Xiaomi 12 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-12-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI 2 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-2-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-2-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: wt86047
+        <br/>Model(s): 2014817, 2014818, 2014819, 2014811, 2014812, 2014821
+        <br/>Firmware page: https://miuirom.org/phones/redmi-2
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-2-edl-point.jpg" alt="REDMI 2 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-2-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI 3 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-3-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-3-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: ido
+        <br/>Model(s): 2015816, 2015811, 2015815, 2015812, 2015810, 2015817, 2015818, 2015819
+        <br/>Firmware page: https://miuirom.org/phones/redmi-3
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-3-edl-point.jpg" alt="REDMI 3 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-3-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI 3S EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-3s-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-3s-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: land
+        <br/>Model(s): 2016031, 2016037, 2016030, 2016032
+        <br/>Firmware page: https://miuirom.org/phones/redmi-3s
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-3s-edl-point.jpg" alt="REDMI 3S EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-3s-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI 4 Prime EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-4-prime-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-4-prime-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: markw
+        <br/>Model(s): 2016060
+        <br/>Firmware page: https://miuirom.org/phones/redmi-4-prime
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-4-prime-edl-point.jpg" alt="REDMI 4 Prime EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-4-prime-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI 4A EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-4a-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-4a-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: rolex
+        <br/>Model(s): 2016117, 2016116, 2016111, 2016112
+        <br/>Firmware page: https://miuirom.org/phones/redmi-4a
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-4a-edl-point.jpg" alt="REDMI 4A EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-4a-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI 4X EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-4x-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-4x-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: santoni
+        <br/>Model(s): MAG138, MAI132, MAE136, MAT136
+        <br/>Firmware page: https://miuirom.org/phones/redmi-4x
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-4x-edl-point.jpg" alt="REDMI 4X EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-4x-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI 5 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-5-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-5-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: rosy
+        <br/>Model(s): MDG1, MDI1, MDE1, MDT1
+        <br/>Firmware page: https://miuirom.org/phones/redmi-5
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-5-edl-point.jpg" alt="REDMI 5 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-5-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI 5 Plus EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-5-plus-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-5-plus-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: vince
+        <br/>Model(s): MEG7, MEE7, MET7
+        <br/>Firmware page: https://miuirom.org/phones/redmi-5-plus
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-5-plus-edl-point.jpg" alt="REDMI 5 Plus EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-5-plus-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI 5A EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-5a-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-5a-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: riva
+        <br/>Model(s): MCG3B, MCI3B, MCE3B, MCT3B
+        <br/>Firmware page: https://miuirom.org/phones/redmi-5a
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-5a-edl-point.jpg" alt="REDMI 5A EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-5a-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI 6 Pro EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-6-pro-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-6-pro-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: sakura
+        <br/>Model(s): M1805D1SI, M1805D1SE, M1805D1ST, M1805D1SC
+        <br/>Firmware page: https://miuirom.org/phones/redmi-6-pro
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-6-pro-edl-point.jpg" alt="REDMI 6 Pro EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-6-pro-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI 6A EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-6a-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-6a-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: cactus
+        <br/>Model(s): M1804C3CG, M1804C3CH, M1804C3CI, M1804C3CE, M1804C3CT, M1804C3CC
+        <br/>Firmware page: https://miuirom.org/phones/redmi-6a
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-6a-edl-point.jpg" alt="REDMI 6A EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-6a-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI 7 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-7-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-7-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: onclite
+        <br/>Model(s): M1810F6LG, M1810F6LH, M1810F6LI, M1810F6LE, M1810F6LT
+        <br/>Firmware page: https://miuirom.org/phones/redmi-7
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-7-edl-point.jpg" alt="REDMI 7 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-7-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI 7A EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-7a-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-7a-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: pine
+        <br/>Model(s): M1903C3EG, M1903C3EH, M1903C3EI, M1903C3EE, M1903C3ET, M1903C3EC
+        <br/>Firmware page: https://miuirom.org/phones/redmi-7a
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-7a-edl-point.jpg" alt="REDMI 7A EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-7a-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI 8 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-8-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-8-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: olive
+        <br/>Model(s): 1908C3IG, M1908C3IH, M1908C3II, M1908C3IE, M1908C3IC
+        <br/>Firmware page: https://miuirom.org/phones/redmi-8
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-8-edl-point.jpg" alt="REDMI 8 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-8-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI 8A EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-8a-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-8a-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: olivelite
+        <br/>Model(s): M1908C3KG, M1908C3KH, M1908C3KI, M1908C3KE
+        <br/>Firmware page: https://miuirom.org/phones/redmi-8a
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-8a-edl-point.jpg" alt="REDMI 8A EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-8a-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI 8A Dual EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-redmi-8a-dual-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-redmi-8a-dual-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: olivewood
+        <br/>Model(s): M2001C3K3I
+        <br/>Firmware page: https://miuirom.org/phones/redmi-8a-dual
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-redmi-8a-dual-edl-point.jpg" alt="REDMI 8A Dual EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/xiaomi-redmi-8a-dual-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI 9A EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-9a-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-9a-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: dandelion
+        <br/>Model(s): M2006C3LG
+        <br/>Firmware page: https://miuirom.org/phones/redmi-9a
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-9a-edl-point.jpg" alt="REDMI 9A EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-9a-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI 9 Power EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-9-power-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-9-power-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: lime
+        <br/>Model(s): M2010J19SI
+        <br/>Firmware page: https://miuirom.org/phones/redmi-9-power
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-9-power-edl-point.jpg" alt="REDMI 9 Power EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-9-power-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI Note 4G EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-4g-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-4g-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: dior
+        <br/>Model(s): 2014715, 2014712, 2014022, 2014021
+        <br/>Firmware page: https://miuirom.org/phones/redmi-note-4g
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-4g-edl-point.jpg" alt="REDMI Note 4G EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-4g-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI Note 4 / 4x EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-4-4x-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-4-4x-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: mido
+        <br/>Model(s): 2016100, 2016102, 2016101, 2016130
+        <br/>Firmware page: https://miuirom.org/phones/redmi-note-4
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-4-4x-edl-point.jpg" alt="REDMI Note 4 / 4x EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-4-4x-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI Note 5 / 5 Pro EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-5-pro-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-5-pro-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: whyred
+        <br/>Model(s): MEI7S, M1803E7SG, M1803E7SH, MEE7S, MET7S, MEC7S
+        <br/>Firmware page: https://miuirom.org/phones/redmi-note-5
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-5-pro-edl-point.jpg" alt="REDMI Note 5 / 5 Pro EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-5-pro-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI Note 5A EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-5a-y1-lite-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-5a-y1-lite-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: ugglite
+        <br/>Model(s): MDG6, MDE6, MDT6, MDI6
+        <br/>Firmware page: https://miuirom.org/phones/redmi-note-5a-2gb
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-5a-y1-lite-edl-point.jpg" alt="REDMI Note 5A EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-5a-y1-lite-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI Note 5A Prime EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-5a-prime-y1-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-5a-prime-y1-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: ugg
+        <br/>Model(s): MDG6S, MDE6S, MDT6S, MDI6S
+        <br/>Firmware page: https://miuirom.org/phones/redmi-note-5a-prime
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-5a-prime-y1-edl-point.jpg" alt="REDMI Note 5A Prime EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-5a-prime-y1-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI Note 6 Pro EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-6-pro-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-6-pro-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: tulip
+        <br/>Model(s): M1806E7TG, M1806E7TH, M1806E7TI
+        <br/>Firmware page: https://miuirom.org/phones/redmi-note-6-pro
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-6-pro-edl-point.jpg" alt="REDMI Note 6 Pro EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-6-pro-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI Note 7 Pro EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-7-pro-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-7-pro-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: violet
+        <br/>Model(s): M1901F7S, M1901F7BE
+        <br/>Firmware page: https://miuirom.org/phones/redmi-note-7-pro
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-7-pro-edl-point.jpg" alt="REDMI Note 7 Pro EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-7-pro-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI Note 8 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-8-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-8-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: ginkgo
+        <br/>Model(s): M1908C3JG, M1908C3JH, M1908C3JI, M1908C3JE, M1908C3JC
+        <br/>Firmware page: https://miuirom.org/phones/redmi-note-8
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-8-edl-point.jpg" alt="REDMI Note 8 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-8-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI Note 8T EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-8t-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-8t-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: willow
+        <br/>Model(s): M1908C3XG
+        <br/>Firmware page: https://miuirom.org/phones/redmi-note-8t
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-8t-edl-point.jpg" alt="REDMI Note 8T EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-8t-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI Note 8 Pro EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-8-pro-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-8-pro-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: begonia
+        <br/>Model(s): M1906G7G, M1906G7E, M1906G7T, M1906G7I
+        <br/>Firmware page: https://miuirom.org/phones/redmi-note-8-pro
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-8-pro-edl-point.jpg" alt="REDMI Note 8 Pro EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-8-pro-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI Note 9S EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-9s-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-9s-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: curtana
+        <br/>Model(s): M2003J6A1G, M2003J6A1R,, M2003J6A1I
+        <br/>Firmware page: https://miuirom.org/phones/redmi-note-9s
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-9s-edl-point.jpg" alt="REDMI Note 9S EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-9s-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI Note 10 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-10-4g-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-10-4g-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: mojito
+        <br/>Model(s): M2101K7AG, M2101K7AI
+        <br/>Firmware page: https://miuirom.org/phones/redmi-note-10
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-10-4g-edl-point.jpg" alt="REDMI Note 10 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-10-4g-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI Note 10 Pro / Pro Max EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-10-pro-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-10-pro-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: sweetin
+        <br/>Model(s): M2101K6P, M2101K6I
+        <br/>Firmware page: https://miuirom.org/phones/redmi-note-10-pro-and-pro-max
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-10-pro-edl-point.jpg" alt="REDMI Note 10 Pro / Pro Max EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-10-pro-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI K20 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-k20-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-k20-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: davinci
+        <br/>Model(s): M1903F10A, M1903F10C, M1903F10I
+        <br/>Firmware page: https://miuirom.org/phones/redmi-k20
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-k20-edl-point.jpg" alt="REDMI K20 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-k20-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI K20 Pro EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-k20-pro-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-k20-pro-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: raphael
+        <br/>Model(s): M1903F11A, M1903F11C, M1903F11I
+        <br/>Firmware page: https://miuirom.org/phones/redmi-k20-pro
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-k20-pro-edl-point.jpg" alt="REDMI K20 Pro EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-k20-pro-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI K30 4G EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-k-30-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-k-30-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: phoenix
+        <br/>Model(s): M1912G7BE, M1912G7BC
+        <br/>Firmware page: https://miuirom.org/phones/redmi-k30-4g
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-k-30-edl-point.jpg" alt="REDMI K30 4G EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-k-30-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI K30 Pro EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-k30-pro-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-k30-pro-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: lmi
+        <br/>Model(s): M2001J11C
+        <br/>Firmware page: https://miuirom.org/phones/redmi-k30-pro
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-k30-pro-edl-point.jpg" alt="REDMI K30 Pro EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-k30-pro-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI S2 / Y2 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-s2-y2-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-s2-y2-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: ysl
+        <br/>Model(s): 1803E6G, M1803E6H, 803E6I, M1803E6E, M1803E6T, M1803E6C
+        <br/>Firmware page: https://miuirom.org/phones/redmi-s2-and-y2
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-s2-y2-edl-point.jpg" alt="REDMI S2 / Y2 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-s2-y2-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI Y3 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-y3-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-y3-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: onc
+        <br/>Model(s): M1810F6G, M1810F6I
+        <br/>Firmware page: https://miuirom.org/phones/redmi-y3
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-y3-edl-point.jpg" alt="REDMI Y3 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-y3-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI Go EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-go-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-go-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: tiare
+        <br/>Model(s): M1903C3GG, M1903C3GH, M1903C3GI
+        <br/>Firmware page: https://miuirom.org/phones/redmi-go
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-go-edl-point.jpg" alt="REDMI Go EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-go-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI 4 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-4-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-4-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: prada
+        <br/>Model(s): 2016090
+        <br/>Firmware page: https://miuirom.org/phones/redmi-4
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-4-edl-point.jpg" alt="REDMI 4 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-4-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI Note 3 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-3-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-3-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: hennessy
+        <br/>Model(s): 2015617, 2015611
+        <br/>Firmware page: https://miuirom.org/phones/redmi-note-3-mtk
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-3-edl-point.jpg" alt="REDMI Note 3 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-3-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI Note 7 / 7S EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-7-7s-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-7-7s-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: lavender
+        <br/>Model(s): M1901F7G, M1901F7H, M1901F7E, M1901F7T, M1901F7C, M1901F7I
+        <br/>Firmware page: https://miuirom.org/phones/redmi-note-7-and-7s
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-7-7s-edl-point.jpg" alt="REDMI Note 7 / 7S EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/mi-redmi-note-7-7s-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI Note 9 Pro EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-9-pro-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-9-pro-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: joyeuse
+        <br/>Model(s): M2003J6B2G
+        <br/>Firmware page: https://miuirom.org/phones/redmi-note-9-pro
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-9-pro-edl-point.jpg" alt="REDMI Note 9 Pro EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-9-pro-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI Note 11 Pro 5G EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-11-pro-5g.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-11-pro-5g.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: veux
+        <br/>Model(s): 2201116SG, 2201116SR
+        <br/>Firmware page: https://miuirom.org/phones/redmi-note-11-pro-5g
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-11-pro-5g.jpg" alt="REDMI Note 11 Pro 5G EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-11-pro-5g.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>REDMI Note 12 Pro 4G EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-12-pro-4g-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-12-pro-4g-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: REDMI
+        <br/>Codename: sweet_k6a
+        <br/>Model(s): 2209116AG
+        <br/>Firmware page: https://miuirom.org/phones/redmi-note-12-pro-4g
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-12-pro-4g-edl-point.jpg" alt="REDMI Note 12 Pro 4G EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/redmi-note-12-pro-4g-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>POCO F1 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-f1-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-f1-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: POCO
+        <br/>Codename: beryllium
+        <br/>Model(s): M1805E10A
+        <br/>Firmware page: https://miuirom.org/phones/poco-f1
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-f1-edl-point.jpg" alt="POCO F1 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-f1-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>POCO F2 Pro EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-f2-pro-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-f2-pro-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: POCO
+        <br/>Codename: lmi
+        <br/>Model(s): M2004J11G
+        <br/>Firmware page: https://miuirom.org/phones/poco-f2-pro
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-f2-pro-edl-point.jpg" alt="POCO F2 Pro EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-f2-pro-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>POCO F4 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-f4-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-f4-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: POCO
+        <br/>Codename: munch
+        <br/>Model(s): 22021211RG, 22021211RI
+        <br/>Firmware page: https://miuirom.org/phones/poco-f4
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-f4-edl-point.jpg" alt="POCO F4 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-f4-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>POCO M2 Pro EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-m2-pro-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-m2-pro-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: POCO
+        <br/>Codename: gram
+        <br/>Model(s): M2003J6CI
+        <br/>Firmware page: https://miuirom.org/phones/poco-m2-pro
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-m2-pro-edl-point.jpg" alt="POCO M2 Pro EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-m2-pro-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>POCO M3 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-m3-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-m3-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: POCO
+        <br/>Codename: citrus
+        <br/>Model(s): M2010J19CG, M2010J19CT, M2010J19CI
+        <br/>Firmware page: https://miuirom.org/phones/poco-m3
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-m3-edl-point.jpg" alt="POCO M3 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-m3-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>POCO X2 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-x2-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-x2-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: POCO
+        <br/>Codename: phoenixin
+        <br/>Model(s): M1912G7BI
+        <br/>Firmware page: https://miuirom.org/phones/poco-x2
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-x2-edl-point.jpg" alt="POCO X2 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-x2-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>POCO X3 EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-x3-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-x3-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: POCO
+        <br/>Codename: surya
+        <br/>Model(s): M2007J20CI
+        <br/>Firmware page: https://miuirom.org/phones/poco-x3
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-x3-edl-point.jpg" alt="POCO X3 EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-x3-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>POCO X3 NFC EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-x3-nfc-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-x3-nfc-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: POCO
+        <br/>Codename: surya
+        <br/>Model(s): M2007J20CG, M2007J20CT
+        <br/>Firmware page: https://miuirom.org/phones/poco-x3-nfc
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-x3-nfc-edl-point.jpg" alt="POCO X3 NFC EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-x3-nfc-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>POCO X3 Pro EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-x3-pro-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-x3-pro-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: POCO
+        <br/>Codename: vayu
+        <br/>Model(s): M2102J20SG, M2102J20SI
+        <br/>Firmware page: https://miuirom.org/phones/poco-x3-pro
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-x3-pro-edl-point.jpg" alt="POCO X3 Pro EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-x3-pro-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>POCO X4 Pro 5G EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-x4-pro-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-x4-pro-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: POCO
+        <br/>Codename: veux
+        <br/>Model(s): 2201116PG
+        <br/>Firmware page: https://miuirom.org/phones/poco-x4-pro-5g
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-x4-pro-edl-point.jpg" alt="POCO X4 Pro 5G EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-x4-pro-edl-point.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>POCO X5 Pro 5G EDL Point</title>
+      <link>https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-x5-pro-edl-point.jpg</link>
+      <guid isPermaLink="false">https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-x5-pro-edl-point.jpg</guid>
+      <pubDate>Fri, 14 Aug 2026 12:14:48 GMT</pubDate>
+      <description><![CDATA[
+        Section: POCO
+        <br/>Codename: redwood
+        <br/>Model(s): 22101320G, 22101320I
+        <br/>Firmware page: https://miuirom.org/phones/poco-x5-pro-5g
+        <br/><img src="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-x5-pro-edl-point.jpg" alt="POCO X5 Pro 5G EDL Point" />
+      ]]></description>
+      <enclosure url="https://umutevicom-commits.github.io/Testpoint/feed/edlpoint/images/poco-x5-pro-edl-point.jpg" type="image/jpeg" />
+    </item>
+  </channel>
+</rss>
