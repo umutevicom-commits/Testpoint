@@ -61,6 +61,41 @@ function isImageUrl(value) {
   return /\.(?:jpe?g|png|webp|gif|bmp|avif)(?:[?#].*)?$/i.test(value || "");
 }
 
+// FIX: /media/{id}/full gibi uzantısız URL'lerden indirilen dosyanın gerçek
+// formatını (Content-Type header'ından) tespit etmek için kullanılır, böylece
+// örn. bir PNG dosyası yanlışlıkla .jpg olarak kaydedilmiyor.
+function contentTypeExtension(contentType) {
+  if (!contentType) return "";
+  const mime = contentType.split(";")[0].trim().toLowerCase();
+  const map = {
+    "image/jpeg": ".jpg",
+    "image/pjpeg": ".jpg",
+    "image/png": ".png",
+    "image/webp": ".webp",
+    "image/gif": ".gif",
+    "image/bmp": ".bmp",
+    "image/avif": ".avif",
+  };
+  return map[mime] || "";
+}
+
+// Content-Type'tan tespit edilen gerçek uzantı, dosya adında tahmin edilen
+// uzantıdan farklıysa dosyayı doğru uzantıyla yeniden adlandırır.
+function applyDetectedExtension(destination, contentType) {
+  const detectedExt = contentTypeExtension(contentType);
+  if (!detectedExt) return destination;
+  const currentExt = path.extname(destination);
+  if (currentExt.toLowerCase() === detectedExt) return destination;
+  const base = currentExt ? destination.slice(0, -currentExt.length) : destination;
+  const renamed = `${base}${detectedExt}`;
+  try {
+    fs.renameSync(destination, renamed);
+    return renamed;
+  } catch (error) {
+    return destination;
+  }
+}
+
 function normalizeImageUrl(value) {
   const url = absoluteUrl(value);
   return isImageUrl(url) ? url : "";
@@ -91,8 +126,18 @@ function chooseImageUrl($, img, anchor) {
   const anchorUrl = normalizeImageUrl($(anchor).attr("href"));
   if (anchorUrl) candidates.unshift(anchorUrl);
 
+  // 1) Gerçek tam boy aday varsa onu kullan (thumbnail path'i içermeyen)
   const fullImage = candidates.find((url) => !/\/thumbnail\//i.test(url));
   if (fullImage) return fullImage;
+
+  // 2) FIX: hiçbir aday tam boy değilse (site sadece thumbnail veriyorsa),
+  // thumbnail URL'sini tam boy path'e çevirmeyi dene. Bu fonksiyon eskiden
+  // hiç çağrılmıyordu ve bu yüzden kod sessizce thumbnail'i "tam boy" gibi
+  // kabul edip düşük kaliteli görseli indiriyordu.
+  for (const url of candidates) {
+    const derived = deriveFullFromThumbnail(url);
+    if (derived && derived !== url) return derived;
+  }
 
   return candidates[0] || "";
 }
@@ -140,9 +185,10 @@ function downloadFile(url, destination) {
         return;
       }
 
+      const contentType = response.headers["content-type"] || "";
       const file = fs.createWriteStream(destination);
       response.pipe(file);
-      file.on("finish", () => file.close(resolve));
+      file.on("finish", () => file.close(() => resolve(contentType)));
       file.on("error", (error) => {
         file.destroy();
         fs.unlink(destination, () => {});
@@ -172,9 +218,24 @@ function shardForId(id) {
   return `${String(start).padStart(4, "0")}-${String(start + 999).padStart(4, "0")}`;
 }
 
+function extensionFromUrl(url) {
+  try {
+    const ext = path.extname(new URL(url).pathname).toLowerCase();
+    return /^\.(?:jpe?g|png|webp|gif|bmp|avif)$/.test(ext) ? ext : "";
+  } catch {
+    return "";
+  }
+}
+
 function filenameForItem(item) {
   let filename = sanitizeFilename(item.title || `media_${item.id}`);
-  if (!/\.(?:jpe?g|png|webp|gif|bmp|avif)$/i.test(filename)) filename += ".jpg";
+  const alreadyHasExt = /\.(?:jpe?g|png|webp|gif|bmp|avif)$/i.test(filename);
+  if (!alreadyHasExt) {
+    // FIX: uzantıyı gerçek görsel URL'sinden al (ör. .png), title'da uzantı
+    // yoksa artık her zaman kör kör .jpg eklenmiyor, bu yüzden PNG dosyalar
+    // yanlışlıkla .jpg olarak etiketlenmiyor.
+    filename += extensionFromUrl(item.image_url) || ".jpg";
+  }
   return path.join(shardForId(item.id), `${item.id}_${filename}`);
 }
 
@@ -292,14 +353,22 @@ function parseListingPage(html) {
     const dateMatch = blockText.match(/Date added\s*([A-Za-z]{3,9}\s+\d{1,2},\s+\d{4})/i);
     const viewMatch = blockText.match(/View count\s*([\d,]+)/i);
     const commentMatch = blockText.match(/Comments?\s*([\d,]+)/i);
-    const imageUrl = chooseImageUrl($, image, $anchor);
-
-    if (!imageUrl) return;
-    seenIds.add(id);
     const thumbnailUrl = absoluteUrl(
       $image.attr("src") || $image.attr("data-src") || $image.attr("data-original") || ""
     );
-    const isFull = !/\/thumbnail\//i.test(imageUrl);
+    // FIX: device-forum.com her medya öğesi için gerçek tam boy görseli
+    // /media/{id}/full adresinden doğrudan veriyor (uzantısız ama gerçek
+    // görsel içeriği dönüyor). DOM'daki data-full/data-original/srcset gibi
+    // attribute tahminlerine güvenmek yerine bu sabit ve güvenilir adresi
+    // birincil kaynak olarak kullanıyoruz.
+    const imageUrl = absoluteUrl(`/media/${id}/full`);
+    // DOM'dan tahmin edilen eski yöntem artık sadece yedek (fallback) olarak
+    // saklanıyor; /full isteği bir sebeple başarısız olursa buna düşülür.
+    const domGuessedUrl = chooseImageUrl($, image, $anchor);
+    const fallbackImageUrl = (domGuessedUrl && domGuessedUrl !== imageUrl && domGuessedUrl) || thumbnailUrl || "";
+
+    if (!imageUrl) return;
+    seenIds.add(id);
     items.push({
       id,
       title,
@@ -308,7 +377,7 @@ function parseListingPage(html) {
       page_url: absoluteUrl(href),
       thumbnail_url: thumbnailUrl,
       image_url: imageUrl,
-      fallback_image_url: isFull ? thumbnailUrl : "",
+      fallback_image_url: fallbackImageUrl,
       date_added: dateMatch ? dateMatch[1] : null,
       view_count: viewMatch ? Number.parseInt(viewMatch[1].replace(/,/g, ""), 10) : null,
       comment_count: commentMatch ? Number.parseInt(commentMatch[1].replace(/,/g, ""), 10) : null,
@@ -400,16 +469,18 @@ async function main() {
 
       try {
         fs.mkdirSync(path.dirname(destination), { recursive: true });
-        await downloadFile(sourceUrl, destination);
-        manifest.set(sourceUrl, relativePath);
+        const contentType = await downloadFile(sourceUrl, destination);
+        const finalDestination = applyDetectedExtension(destination, contentType);
+        manifest.set(sourceUrl, path.relative(imageRoot, finalDestination));
         downloaded += 1;
       } catch (error) {
         if (fallbackUrl && fallbackUrl !== sourceUrl) {
           try {
-            await downloadFile(fallbackUrl, destination);
-            manifest.set(sourceUrl, relativePath);
+            const fallbackContentType = await downloadFile(fallbackUrl, destination);
+            const finalDestination = applyDetectedExtension(destination, fallbackContentType);
+            manifest.set(sourceUrl, path.relative(imageRoot, finalDestination));
             downloaded += 1;
-            console.warn(`  ~ Full image 404, used thumbnail: ${fallbackUrl}`);
+            console.warn(`  ~ Full image failed, used thumbnail: ${fallbackUrl}`);
           } catch (fallbackError) {
             failed += 1;
             console.warn(`  ! Failed to download ${sourceUrl} (fallback also failed): ${fallbackError.message}`);
