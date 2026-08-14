@@ -1,67 +1,240 @@
-name: Drive linklerini Internet Archive'a önbelleğe al
+name: Scrape Testpoints/Pinouts & Update Feed
 
 on:
   schedule:
-    # Her 30 dakikada bir çalışır. GitHub'da cron UTC'dir.
-    - cron: "*/30 * * * *"
-  workflow_dispatch: {}
-    # Yukarıdaki satır, GitHub Actions sekmesinden "Run workflow" ile
-    # istediğiniz an elle de tetikleyebilmenizi sağlar.
+    # Once a day. Every run re-scrapes the ENTIRE archive (all brands, all
+    # platforms, all images) from scratch — there is no incremental/batch
+    # limiting. Given the volume (thousands of images across ~160+ brands)
+    # and GitHub Actions' 6-hour-per-job hard limit, "every 6 hours" is not
+    # realistic for a full-archive+images run — daily is the safe default.
+    # Lower this further (e.g. weekly, "0 3 * * 0") if a full run regularly
+    # takes several hours, to stay within your Actions minutes budget.
+    - cron: "0 3 * * *"
+  workflow_dispatch: # Allow manual trigger from the Actions tab
 
-# BATCH_LIMIT 50'ye çıkarıldığından bir koşu artık 30 dakikadan uzun sürebilir
-# (özellikle büyük ROM dosyalarında). Bu kilit, önceki koşu bitmeden 30 dk'lık
-# zamanlayıcının yeni bir koşu başlatıp aynı satırları ikinci kez işlemeye
-# çalışmasını (ve gereksiz Drive/IA trafiğini) önler.
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 concurrency:
-  group: cache-to-ia
+  group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: false
 
-# En az ayrıcalık ilkesi: bu job hiçbir yere git push yapmıyor, sadece
-# Supabase ve Internet Archive ile konuşuyor — GITHUB_TOKEN'a varsayılan
-# (bazen yazma dahil) izinler yerine sadece okuma izni veriyoruz.
-permissions:
-  contents: read
-
 jobs:
-  cache:
+  scrape:
     runs-on: ubuntu-latest
-    # BATCH_LIMIT=50 ile bazı dosyalar büyük ROM'lar (10+ GB) olabileceğinden
-    # 25 dk yetersiz kalabilirdi; 25 dk'lık job'un ortasında kesilip yarım
-    # kalan bir indirmenin/yüklemenin cache_status'u kirletmemesi için süreyi
-    # genişlettik.
-    timeout-minutes: 180
-    steps:
-      - name: Repo'yu çek
-        uses: actions/checkout@v4
+    # Full-archive run across all three sources: every brand/platform/
+    # category, every image. This is NOT incremental/batched — with
+    # device-forum.com alone adding 7,000+ images on top of the other two
+    # sites, a full run can take a long time, so the timeout is generous
+    # (close to GitHub Actions' hard per-job ceiling).
+    timeout-minutes: 355
 
-      - name: Node.js kur
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "22"
-          # NOT: npm cache (cache: "npm") kasten kaldırıldı — repoda
-          # scripts/migrate-to-ia/package-lock.json bulunmadığı için
-          # setup-node "Some specified paths were not resolved, unable
-          # to cache dependencies" hatasıyla job'ı daha ilk adımda
-          # durduruyordu. Lockfile'ı oluşturup commit'lerseniz cache'i
-          # (ve npm ci'yi) güvenle geri ekleyebiliriz.
+          node-version: 20
 
-      - name: Bağımlılıkları kur
-        working-directory: scripts/migrate-to-ia
-        # npm ci yerine npm install: package-lock.json'a bağımlı değil,
-        # lockfile olsun ya da olmasın çalışır.
+      - name: Install dependencies (Puppeteer + Chromium, cheerio)
         run: npm install
 
-      - name: Yeni dosyaları IA'ya taşı
-        working-directory: scripts/migrate-to-ia
-        env:
-          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
-          IA_ACCESS_KEY: ${{ secrets.IA_ACCESS_KEY }}
-          IA_SECRET_KEY: ${{ secrets.IA_SECRET_KEY }}
-          # Geçmiş yığını (3500+ dosya) daha hızlı eritmek için 5'ten 50'ye
-          # çıkarıldı. timeout-minutes 180'e çıkarıldı ve concurrency kilidi
-          # eklendi ki büyük dosyalarla bir koşu 30 dk'yı geçerse zamanlayıcı
-          # üstüne yeni bir koşu başlatmasın.
-          BATCH_LIMIT: "50"
-          DELAY_MS: "3000"
-        run: node migrate-to-ia.mjs
+      # All three scrapers are told to download images locally AND to
+      # publish RSS links pointing at THIS repo's GitHub Pages site (not
+      # the original sigmakey.com / miuirom.org / device-forum.com URLs) —
+      # see the "PUBLISHING IMAGES FROM GITHUB PAGES" note in
+      # fetch_edlpoint.js / the matching comments in fetch_testpoints.js
+      # and fetch_deviceforum.js for how --base-url is used.
+      - name: Compute GitHub Pages base URL
+        id: pages_url
+        run: |
+          OWNER="${GITHUB_REPOSITORY%%/*}"
+          REPO="${GITHUB_REPOSITORY##*/}"
+          # A repo named exactly "<owner>.github.io" is served at the domain
+          # root (no /<repo> suffix); every other repo is a project page.
+          if [ "$(echo "$REPO" | tr '[:upper:]' '[:lower:]')" = "$(echo "$OWNER" | tr '[:upper:]' '[:lower:]').github.io" ]; then
+            BASE_URL="https://${OWNER}.github.io"
+          else
+            BASE_URL="https://${OWNER}.github.io/${REPO}"
+          fi
+          echo "base_url=$BASE_URL" >> "$GITHUB_OUTPUT"
+          echo "Computed Pages base URL: $BASE_URL"
+
+      - name: Run testpoints/pinouts scraper (full archive, with images)
+        run: |
+          echo "Scraping FULL archive: sigmakey.com Testpoints/Pinouts (every brand, every image)"
+          node fetch_testpoints.js --out-dir ./feed --download-images \
+            --base-url "${{ steps.pages_url.outputs.base_url }}"
+
+      - name: Run EDL point scraper (miuirom.org, with images)
+        run: |
+          echo "Scraping miuirom.org EDL Point archive (Xiaomi/REDMI/POCO, every image)"
+          node fetch_edlpoint.js --out-dir ./feed --download-images \
+            --base-url "${{ steps.pages_url.outputs.base_url }}"
+
+      - name: Run Device Forum media gallery scraper (device-forum.com, full archive, with images)
+        run: |
+          echo "Scraping device-forum.com media gallery (all categories, every page, every image)"
+          node fetch_deviceforum.js --out-dir ./feed --download-images \
+            --base-url "${{ steps.pages_url.outputs.base_url }}"
+
+      - name: Commit & push changes (chunked — avoids GitHub RPC 500 on huge pushes)
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Large pushes (thousands of new images in one go — especially the
+          # very first device-forum.com backfill) can make GitHub's git
+          # HTTP backend drop the connection ("RPC failed; HTTP 500",
+          # "unexpected disconnect while reading sideband packet"). A bigger
+          # postBuffer and HTTP/1.1 help a little, but the real fix below is
+          # to never push that much in one go — see the batching loop.
+          git config http.postBuffer 524288000
+          git config http.version HTTP/1.1
+
+          git add -A feed/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          # Pick up anything pushed elsewhere (e.g. a manual commit) while
+          # this job was scraping. Autostash IS needed here (unlike the
+          # retry-loop pulls below): we just ran `git add -A feed/` above,
+          # so the index/working tree genuinely has staged changes at this
+          # point, and a plain `git pull --rebase` refuses to run against a
+          # dirty tree ("cannot pull with rebase: you have unstaged
+          # changes"). This single pull happens before ANY commit exists
+          # yet, so there's nothing for a stash-pop to conflict against.
+          git pull --rebase --autostash origin main
+          git add -A feed/
+          if git diff --cached --quiet; then
+            echo "No changes to commit after rebase"
+            exit 0
+          fi
+
+          # Unstage everything and re-commit/push in small batches instead
+          # of one giant commit. Each batch is its own commit + its own
+          # push, so no single push is ever more than ~CHUNK files / a few
+          # hundred MB — that's what actually avoids the HTTP 500.
+          git diff --cached --name-only -z > /tmp/staged_files.txt
+          git reset
+
+          # -------------------------------------------------------------
+          # Split staged files into two groups:
+          #   METADATA - small text files fully REWRITTEN every run (rss
+          #     feeds, *_all.json, *_categories.json, *_coverage.json,
+          #     images-manifest.json, package-lock.json). These are the
+          #     files most likely to also be touched by a concurrent or
+          #     manual push, so they're committed+pushed FIRST, in their
+          #     own tiny commit — instead of sitting as uncommitted
+          #     working-tree changes for the hour-plus it can take to
+          #     push thousands of image batches. A previous run hit
+          #     exactly this: a manual push landed mid-run, the pending
+          #     (uncommitted) rss.xml / rss_edlpoint.xml changes got
+          #     autostashed for a mid-loop rebase, and re-applying that
+          #     stash produced an unresolved conflict that crashed the
+          #     job (see git history around 2026-08-14 for the failed run).
+          #   REST - everything else: overwhelmingly new, uniquely-named
+          #     image files, which essentially never conflict with
+          #     anything else since no two runs produce the same filename.
+          # -------------------------------------------------------------
+          METADATA_RE='(^|/)(rss[^/]*\.xml|[^/]*_all\.json|[^/]*_categories\.json|[^/]*_coverage\.json|images-manifest\.json|package-lock\.json)$'
+          METADATA=()
+          REST=()
+          while IFS= read -r -d '' f; do
+            if [[ "$f" =~ $METADATA_RE ]]; then
+              METADATA+=("$f")
+            else
+              REST+=("$f")
+            fi
+          done < /tmp/staged_files.txt
+
+          TOTAL=$(( ${#METADATA[@]} + ${#REST[@]} ))
+          echo "Total changed files: $TOTAL (${#METADATA[@]} metadata, ${#REST[@]} other) — committing/pushing in batches of 100"
+
+          # Retries a push up to 3x. On rejection (remote moved), fetch +
+          # rebase and retry. Nothing is autostashed here — by the time
+          # this runs, the working tree only has files belonging to
+          # LATER, not-yet-committed batches, which are new/untracked and
+          # don't block a rebase. If the rebase itself hits a genuine
+          # conflict, we abort it and fail loudly instead of leaving the
+          # checkout in a half-merged state for the next commit to trip over.
+          push_with_retry() {
+            local attempt=0
+            until git push; do
+              attempt=$((attempt + 1))
+              if [ "$attempt" -ge 3 ]; then
+                echo "!! push failed 3x — giving up"
+                return 1
+              fi
+              echo "  push failed, retrying ($attempt/3) after a short pause..."
+              sleep 10
+              if ! git pull --rebase origin main; then
+                echo "!! rebase hit a real conflict — aborting rebase rather than guessing a resolution"
+                git rebase --abort || true
+                return 1
+              fi
+            done
+            return 0
+          }
+
+          BATCH_NUM=0
+
+          if [ "${#METADATA[@]}" -gt 0 ]; then
+            BATCH_NUM=$((BATCH_NUM + 1))
+            git add -- "${METADATA[@]}"
+            git commit -q -m "Auto-update feed metadata ($(date -u '+%Y-%m-%d %H:%M UTC')) [${#METADATA[@]} files]"
+            if ! push_with_retry; then
+              echo "!! metadata push failed — stopping (image batches not attempted)"
+              exit 1
+            fi
+            echo "  metadata batch pushed (${#METADATA[@]} file(s))"
+          fi
+
+          CHUNK=100
+          BATCH=()
+          flush_batch() {
+            if [ "${#BATCH[@]}" -eq 0 ]; then return; fi
+            BATCH_NUM=$((BATCH_NUM + 1))
+            git add -- "${BATCH[@]}"
+            git commit -q -m "Auto-update feed images ($(date -u '+%Y-%m-%d %H:%M UTC')) [batch $BATCH_NUM, ${#BATCH[@]} files]"
+            if ! push_with_retry; then
+              echo "!! push failed for batch $BATCH_NUM — stopping (remaining batches not attempted, safe to re-run)"
+              exit 1
+            fi
+            echo "  batch $BATCH_NUM pushed (${#BATCH[@]} file(s))"
+            BATCH=()
+          }
+
+          for f in "${REST[@]}"; do
+            BATCH+=("$f")
+            if [ "${#BATCH[@]}" -ge "$CHUNK" ]; then
+              flush_batch
+            fi
+          done
+          flush_batch
+
+          echo "Done: $TOTAL file(s) committed and pushed across $BATCH_NUM batch(es)."
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+  deploy:
+    needs: scrape
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
