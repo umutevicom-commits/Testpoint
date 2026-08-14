@@ -10,6 +10,8 @@
     "scrape:images": "node fetch_testpoints.js --out-dir ./feed --download-images",
     "scrape:edlpoint": "node fetch_edlpoint.js --out-dir ./feed",
     "scrape:edlpoint:images": "node fetch_edlpoint.js --out-dir ./feed --download-images",
+    "scrape:deviceforum": "node fetch_deviceforum.js --out-dir ./feed",
+    "scrape:deviceforum:images": "node fetch_deviceforum.js --out-dir ./feed --download-images",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {

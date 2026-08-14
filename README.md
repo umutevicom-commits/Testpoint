@@ -2,8 +2,11 @@
 
 **Not:** Bu repo daha önce ximitime.com'dan Xiaomi HyperOS ROM verisi çekip
 RSS feed üretiyordu (`fetch_roms.js`, `index.js`, `feed/roms_*.json`,
-`feed/rss_*.xml`). O sistem tamamen kaldırıldı — artık repo yalnızca
-sigmakey.com'un Testpoints/Pinouts arşivini (konu adı + görsel linki) çeker.
+`feed/rss_*.xml`). O sistem tamamen kaldırıldı — artık repo üç kaynağı
+çekiyor: sigmakey.com'un Testpoints/Pinouts arşivi (konu adı + görsel
+linki, bu dosyada anlatılıyor), miuirom.org'un EDL Point arşivi
+(`README_edlpoint.md`) ve device-forum.com'un tüm medya galerisi
+(`README_deviceforum.md`).
 
 ## Ne yapıyor
 
@@ -63,16 +66,18 @@ Her kayıt:
 
 ## GitHub Actions
 
-`.github/workflows/scrape.yml` günde bir kez (veya manuel tetiklemeyle) hem
-`fetch_testpoints.js`'i hem de `fetch_edlpoint.js`'i çalıştırıp `feed/`
-klasörünü commit'ler ve GitHub Pages'e yayınlar. Marka sayısı fazla
-olduğundan (Huawei tek başına ~968 kayıt), ilk birkaç çalıştırmayı Actions
-loglarından izleyip `testpoints_coverage.json` çıktısında eksik marka var mı
-kontrol etmeniz önerilir.
+`.github/workflows/scrape.yml` günde bir kez (veya manuel tetiklemeyle)
+`fetch_testpoints.js`, `fetch_edlpoint.js` ve `fetch_deviceforum.js`'i
+sırayla çalıştırıp `feed/` klasörünü commit'ler ve GitHub Pages'e yayınlar.
+Marka/kategori sayısı fazla olduğundan (Huawei tek başına ~968 kayıt,
+device-forum.com toplamda 7.000+ görsel), ilk birkaç çalıştırmayı Actions
+loglarından izleyip `testpoints_coverage.json` / `deviceforum_coverage.json`
+çıktılarında eksik var mı kontrol etmeniz önerilir.
 
 **Görseller nereden yayınlanır?** Workflow, deponun adına bakarak Pages
-adresini (`https://<owner>.github.io/<repo>`) otomatik hesaplıyor ve her iki
+adresini (`https://<owner>.github.io/<repo>`) otomatik hesaplıyor ve üç
 scraper'a da `--download-images --base-url ...` ile veriyor — yani üretilen
-RSS feed'lerindeki görseller hedef sitenin (sigmakey.com / miuirom.org)
-linkleri değil, **bu reponun GitHub Pages'inde barınan kopyalar**dır. Detaylar
-için `README_testpoints.md` ve `README_edlpoint.md` dosyalarına bakın.
+RSS feed'lerindeki görseller hedef sitelerin (sigmakey.com / miuirom.org /
+device-forum.com) linkleri değil, **bu reponun GitHub Pages'inde barınan
+kopyalar**dır. Detaylar için `README_testpoints.md`, `README_edlpoint.md` ve
+`README_deviceforum.md` dosyalarına bakın.
