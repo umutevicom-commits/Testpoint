@@ -94,9 +94,7 @@ function chooseImageUrl($, img, anchor) {
   const fullImage = candidates.find((url) => !/\/thumbnail\//i.test(url));
   if (fullImage) return fullImage;
 
-  const thumbnail = candidates[0];
-  if (!thumbnail) return "";
-  return deriveFullFromThumbnail(thumbnail) || thumbnail;
+  return candidates[0] || "";
 }
 
 function fetchHtml(url) {
@@ -394,8 +392,8 @@ async function main() {
       const existingPath = existing ? path.join(imageRoot, existing) : "";
       const destination = path.join(imageRoot, relativePath);
 
-      if ((existing && fs.existsSync(existingPath)) || fs.existsSync(destination)) {
-        manifest.set(sourceUrl, existing || relativePath);
+      if (existing && fs.existsSync(existingPath)) {
+        manifest.set(sourceUrl, existing);
         skipped += 1;
         continue;
       }
