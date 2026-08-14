@@ -84,24 +84,78 @@ jobs:
           node fetch_deviceforum.js --out-dir ./feed --download-images \
             --base-url "${{ steps.pages_url.outputs.base_url }}"
 
-      - name: Commit & push changes
+      - name: Commit & push changes (chunked — avoids GitHub RPC 500 on huge pushes)
         run: |
+          set -e
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add feed/
+          # Large pushes (thousands of new images in one go — especially the
+          # very first device-forum.com backfill) can make GitHub's git
+          # HTTP backend drop the connection ("RPC failed; HTTP 500",
+          # "unexpected disconnect while reading sideband packet"). A bigger
+          # postBuffer and HTTP/1.1 help a little, but the real fix below is
+          # to never push that much in one go — see the batching loop.
+          git config http.postBuffer 524288000
+          git config http.version HTTP/1.1
+
+          git add -A feed/
           if git diff --cached --quiet; then
             echo "No changes to commit"
-          else
-            git commit -m "Auto-update testpoints/edl-point feeds ($(date -u '+%Y-%m-%d %H:%M UTC'))"
-            # --autostash: if the working tree has any other uncommitted/
-            # unstaged changes at this point (e.g. left over from npm
-            # install, line-ending normalization on checkout, etc.), stash
-            # them before rebasing and re-apply them after, instead of
-            # failing with "cannot pull with rebase: you have unstaged
-            # changes".
-            git pull --rebase --autostash origin main
-            git push
+            exit 0
           fi
+
+          # --autostash: if the checkout has any other uncommitted/unstaged
+          # changes at this point, stash them before rebasing and re-apply
+          # them after, instead of failing outright.
+          git pull --rebase --autostash origin main
+          git add -A feed/
+          if git diff --cached --quiet; then
+            echo "No changes to commit after rebase"
+            exit 0
+          fi
+
+          # Unstage everything and re-commit/push in small batches instead
+          # of one giant commit. Each batch is its own commit + its own
+          # push, so no single push is ever more than ~CHUNK files / a few
+          # hundred MB — that's what actually avoids the HTTP 500.
+          git diff --cached --name-only -z > /tmp/staged_files.txt
+          git reset
+
+          CHUNK=100
+          BATCH_NUM=0
+          TOTAL=$(tr -cd '\0' < /tmp/staged_files.txt | wc -c)
+          echo "Total changed files: $TOTAL — committing/pushing in batches of $CHUNK"
+
+          BATCH=()
+          flush_batch() {
+            if [ "${#BATCH[@]}" -eq 0 ]; then return; fi
+            BATCH_NUM=$((BATCH_NUM + 1))
+            git add -- "${BATCH[@]}"
+            git commit -q -m "Auto-update feeds ($(date -u '+%Y-%m-%d %H:%M UTC')) [batch $BATCH_NUM, ${#BATCH[@]} files]"
+            ATTEMPT=0
+            until git push; do
+              ATTEMPT=$((ATTEMPT + 1))
+              if [ "$ATTEMPT" -ge 3 ]; then
+                echo "!! push failed 3x for batch $BATCH_NUM — giving up"
+                exit 1
+              fi
+              echo "  push failed, retrying ($ATTEMPT/3) after a short pause + rebase..."
+              sleep 10
+              git pull --rebase --autostash origin main
+            done
+            echo "  batch $BATCH_NUM pushed (${#BATCH[@]} file(s))"
+            BATCH=()
+          }
+
+          while IFS= read -r -d '' f; do
+            BATCH+=("$f")
+            if [ "${#BATCH[@]}" -ge "$CHUNK" ]; then
+              flush_batch
+            fi
+          done < /tmp/staged_files.txt
+          flush_batch
+
+          echo "Done: $TOTAL file(s) committed and pushed across $BATCH_NUM batch(es)."
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
