@@ -298,16 +298,19 @@ function parseListingPage(html) {
 
     if (!imageUrl) return;
     seenIds.add(id);
+    const thumbnailUrl = absoluteUrl(
+      $image.attr("src") || $image.attr("data-src") || $image.attr("data-original") || ""
+    );
+    const isFull = !/\/thumbnail\//i.test(imageUrl);
     items.push({
       id,
       title,
       category_id: categoryMatch ? categoryMatch[1] : null,
       category_name: $category.text().replace(/\s+/g, " ").trim() || null,
       page_url: absoluteUrl(href),
-      thumbnail_url: absoluteUrl(
-        $image.attr("src") || $image.attr("data-src") || $image.attr("data-original") || ""
-      ),
+      thumbnail_url: thumbnailUrl,
       image_url: imageUrl,
+      fallback_image_url: isFull ? thumbnailUrl : "",
       date_added: dateMatch ? dateMatch[1] : null,
       view_count: viewMatch ? Number.parseInt(viewMatch[1].replace(/,/g, ""), 10) : null,
       comment_count: commentMatch ? Number.parseInt(commentMatch[1].replace(/,/g, ""), 10) : null,
@@ -385,6 +388,7 @@ async function main() {
 
     for (const item of items) {
       const sourceUrl = item.image_url;
+      const fallbackUrl = item.fallback_image_url || "";
       const relativePath = path.join("images", filenameForItem(item));
       const existing = manifest.get(sourceUrl);
       const existingPath = existing ? path.join(imageRoot, existing) : "";
@@ -402,8 +406,20 @@ async function main() {
         manifest.set(sourceUrl, relativePath);
         downloaded += 1;
       } catch (error) {
-        failed += 1;
-        console.warn(`  ! Failed to download ${sourceUrl}: ${error.message}`);
+        if (fallbackUrl && fallbackUrl !== sourceUrl) {
+          try {
+            await downloadFile(fallbackUrl, destination);
+            manifest.set(sourceUrl, relativePath);
+            downloaded += 1;
+            console.warn(`  ~ Full image 404, used thumbnail: ${fallbackUrl}`);
+          } catch (fallbackError) {
+            failed += 1;
+            console.warn(`  ! Failed to download ${sourceUrl} (fallback also failed): ${fallbackError.message}`);
+          }
+        } else {
+          failed += 1;
+          console.warn(`  ! Failed to download ${sourceUrl}: ${error.message}`);
+        }
       }
       await sleep(delayMs);
     }
