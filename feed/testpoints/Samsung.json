@@ -1202,6 +1202,14 @@
   {
     "brand": "Samsung",
     "platform": "Qualcomm",
+    "title": "Samsung, Qualcomm, SM-F731B",
+    "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Z Flip 5 5G (SM-F731B)-1794237826.jpg",
+    "local_image_path": "testpoints/images/Galaxy Z Flip 5 5G (SM-F731B)-1794237826.jpg",
+    "published_image_url": "https://umutevicom-commits.github.io/Testpoint/feed/testpoints/images/Galaxy Z Flip 5 5G (SM-F731B)-1794237826.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Qualcomm",
     "title": "Samsung, Qualcomm, SM-F936B, Galaxy Z Fold4 5G",
     "image_url": "https://sigmakey.com/content/nfs/testpoints/Galaxy Z Fold 4 5G (SM-F936B)-1753799520.jpg",
     "local_image_path": "testpoints/images/Galaxy Z Fold 4 5G (SM-F936B)-1753799520.jpg",
